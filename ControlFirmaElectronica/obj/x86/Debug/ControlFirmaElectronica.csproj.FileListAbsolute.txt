@@ -202,3 +202,7 @@ C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO
 C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
 C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
 C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
