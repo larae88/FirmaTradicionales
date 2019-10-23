@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<Generales>
+  <PersonajesAccesos>
+    <IdPersonaje>8944</IdPersonaje>
+    <NombrePersonaje>ARCHIVO GENERAL DE NOTARÍAS</NombrePersonaje>
+  </PersonajesAccesos>
+  <GeneralesJuzgado>
+    <Centro>142110201</Centro>
+    <Tipo_expe>4</Tipo_expe>
+    <Numero_expe>0146/2019</Numero_expe>
+    <Descripcion_expe>EXHORTO</Descripcion_expe>
+    <Fecha_Auto>08/04/2019</Fecha_Auto>
+    <Auto>OFICIO</Auto>
+    <Resumen_Auto>OFICIO PARA REGISTRO DE NOTARIA PUBLICAS</Resumen_Auto>
+    <Municipio>Guanajuato,Guanajuato</Municipio>
+    <NombreJuzgado>JUZGADO DE PARTIDO PRIMERO CIVIL</NombreJuzgado>
+    <Actores>MA. LETICIA  MIRANDA ORTIZ ORTIZ</Actores>
+    <Demandados>ROSA MARIA VARGAS  RODRIGUEZ,JOSE ALBERTO  GALICIA  RODRIGUEZ,JUAN  VALDEZ ORTIZ</Demandados>
+    <ThumbPrint>328E7D75402BA5D2ABCBFB85A472D0D7F91871C1</ThumbPrint>
+    <Notificables>ARCHIVO GENERAL DE NOTARÍAS</Notificables>
+    <Personaje>5</Personaje>
+    <Número_Único_de_Suscriptor>8944</Número_Único_de_Suscriptor>
+    <Indice>1421102010420190146</Indice>
+    <SecretarioNotificacion>Fausto Lara Castro</SecretarioNotificacion>
+  </GeneralesJuzgado>
+  <Acto>
+    <Clave>AG28</Clave>
+    <Descripcion>INFORMES</Descripcion>
+  </Acto>
+  <RegistroPublico>
+    <MunicipioDestino>15</MunicipioDestino>
+    <Solicitud />
+    <Notificacion>0</Notificacion>
+  </RegistroPublico>
+</Generales>

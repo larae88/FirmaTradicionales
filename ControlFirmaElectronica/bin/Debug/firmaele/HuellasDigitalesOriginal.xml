@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<HuellasDigitales>
+  <HD_Archivos>
+    <NombreArchivo>concursoBD.mdf</NombreArchivo>
+    <TamanioFisico>3145728</TamanioFisico>
+    <FechaArchivo>02/12/2011 13:23:49</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:44:54</FechaUltimaModificacion>
+    <HuellaDigital>8f60ad8d700ee2153e55d1a691dd9d1074781488</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>concursoBD_log.ldf</NombreArchivo>
+    <TamanioFisico>1048576</TamanioFisico>
+    <FechaArchivo>02/12/2011 13:23:49</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:44:54</FechaUltimaModificacion>
+    <HuellaDigital>ab323c77622f3bf851233595c519b22c7b5e293b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.mdf</NombreArchivo>
+    <TamanioFisico>3145728</TamanioFisico>
+    <FechaArchivo>02/12/2011 13:23:49</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:00:28</FechaUltimaModificacion>
+    <HuellaDigital>924dfd511517dec65cc93c3d6086c30b8d1eb120</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen_log.ldf</NombreArchivo>
+    <TamanioFisico>1048576</TamanioFisico>
+    <FechaArchivo>02/12/2011 13:23:49</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:00:28</FechaUltimaModificacion>
+    <HuellaDigital>93fae7bdff77f38811e6239c96ffe39604a946f1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AC.cer</NombreArchivo>
+    <TamanioFisico>1791</TamanioFisico>
+    <FechaArchivo>10/11/2011 11:29:59</FechaArchivo>
+    <FechaUltimaModificacion>04/12/2011 21:06:50</FechaUltimaModificacion>
+    <HuellaDigital>c0fb9149ed86fc985bf8c3ae20f259c35f5145e3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Agente.cer</NombreArchivo>
+    <TamanioFisico>1274</TamanioFisico>
+    <FechaArchivo>10/11/2011 11:29:56</FechaArchivo>
+    <FechaUltimaModificacion>04/12/2011 21:06:50</FechaUltimaModificacion>
+    <HuellaDigital>5700a0631a1819d4a14d66ccf6ddfad1af3d5b55</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Agente.key</NombreArchivo>
+    <TamanioFisico>714</TamanioFisico>
+    <FechaArchivo>10/11/2011 11:29:53</FechaArchivo>
+    <FechaUltimaModificacion>04/12/2011 21:06:50</FechaUltimaModificacion>
+    <HuellaDigital>115f89c7dc1314db106a68323411c109aee8a586</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>SetupAgente612.exe</NombreArchivo>
+    <TamanioFisico>3038079</TamanioFisico>
+    <FechaArchivo>10/11/2011 11:29:50</FechaArchivo>
+    <FechaUltimaModificacion>04/12/2011 21:06:50</FechaUltimaModificacion>
+    <HuellaDigital>34529db2113d71c580aa47e6762e78a743fa12a1</HuellaDigital>
+  </HD_Archivos>
+</HuellasDigitales>

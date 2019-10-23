@@ -1,0 +1,2915 @@
+<?xml version="1.0" standalone="yes"?>
+<HuellasDigitales>
+  <HD_Archivos>
+    <NombreArchivo>examen.mdf</NombreArchivo>
+    <TamanioFisico>3145728</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:16:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham</CarpetaContenedora>
+    <HuellaDigital>a98cedda3129b267b3875d59b11c349cc9c4179a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examenABRAHAM.sql</NombreArchivo>
+    <TamanioFisico>9374</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:03:30</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham</CarpetaContenedora>
+    <HuellaDigital>3488a36d97b1ea01054e2468468d94bd3f8f9364</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen_log.ldf</NombreArchivo>
+    <TamanioFisico>1048576</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:16:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham</CarpetaContenedora>
+    <HuellaDigital>555b6447dab0d89240b029cbf05f6cec68614b5d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>LTORRES.zip</NombreArchivo>
+    <TamanioFisico>269018</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:07:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham</CarpetaContenedora>
+    <HuellaDigital>a16523cd0f2baed38144b52370a9063a4c3db4d9</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examen.suo</NombreArchivo>
+    <TamanioFisico>51200</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:07:16</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen</CarpetaContenedora>
+    <HuellaDigital>625838390a85a9a66a40aff56bb3f72494412066</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj</NombreArchivo>
+    <TamanioFisico>7212</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>c9e1c6bf455b3935a04b560a31df7df0669fe9f6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj.user</NombreArchivo>
+    <TamanioFisico>1086</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>196bda7ac7fec7b2b05ec62fcb9a1ecb463fefc7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx</NombreArchivo>
+    <TamanioFisico>5633</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:01:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>e9af8ffe3bff3117c26bd2d3ef5900f3e6313a09</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx.cs</NombreArchivo>
+    <TamanioFisico>2759</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:01:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>04f2031e65d1c98906f073decd50488a71d8d883</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>5159</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>ca15947e0f00f7d1f3f41ee1fcc0fe774761bb36</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax</NombreArchivo>
+    <TamanioFisico>96</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>875e44e9eca94a2e823f8437dcb86358cd6f5227</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax.cs</NombreArchivo>
+    <TamanioFisico>1195</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>d3c43d343f60491de4618d5ff0df5f084a6bc16d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>1586</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>2d54575ba52ea74538ebc6c02fef009a4102cc7f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.cs</NombreArchivo>
+    <TamanioFisico>915</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:13:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>8a4f2eab542f530af24f05348600a4318aa5c415</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>2524</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:08:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>9728ac5ec57faf70857c44cecfcf113ac356d7ac</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master</NombreArchivo>
+    <TamanioFisico>1772</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>f4d38ac2867ca2fcdbd05b585f2e1761842ec15a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.cs</NombreArchivo>
+    <TamanioFisico>344</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>841c229ba69ad7b3441e4c6ebbdf517fbfbe9531</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.designer.cs</NombreArchivo>
+    <TamanioFisico>1146</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>8ebd710d2ae2b4cc28f619d5c03106724374f25a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>2002</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>69342e0eab916d3b94721745201e40b37d91552f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Debug.config</NombreArchivo>
+    <TamanioFisico>1285</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>0386eab82a9c6ac4670310a0e2d25ff6a62cb931</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Release.config</NombreArchivo>
+    <TamanioFisico>1346</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>5714cd1d7c5cda32f90d0ba9bdce3602aa04ade3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx</NombreArchivo>
+    <TamanioFisico>4481</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>ebc29a23581950510ac3847a83d10a9a9bd35ee7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.cs</NombreArchivo>
+    <TamanioFisico>350</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>c5eeda3a36728e82cf63662f4b95b082d7ee27fc</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>813</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>5d678b725305de1796dcd795c2add7a0b0f85ba0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx</NombreArchivo>
+    <TamanioFisico>529</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>7d7a13fac80135199ec5bdce131f889d41d734a6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.cs</NombreArchivo>
+    <TamanioFisico>357</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>35de1ba4b9e04dbbfc8680455dc9f34d59116671</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>474</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>4d8cc69987c25e58e442a972e2518e5cdfe9c471</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>3069</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>b27631f467fdeec1971890100e553d892d178783</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.cs</NombreArchivo>
+    <TamanioFisico>470</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>bc81b0354d7afefbacb0b58746f7c85d5acbb247</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>1116</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>3d1e9fc117a3a2152fbc309ebc9b6b422e1037e3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx</NombreArchivo>
+    <TamanioFisico>5675</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>70814898b6c0dbc3ab4097534355c20cc429c7f6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.cs</NombreArchivo>
+    <TamanioFisico>912</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>56b1996bd79e19a5f7154004840ff7e7cf0146e5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>1157</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>742b839cca24c9dc6424eeb0b1a2306023915e36</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>330</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>3230ac1dbab7d2c15a2e783e8199ed47e14a04e8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.dll</NombreArchivo>
+    <TamanioFisico>8192</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:55:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:45</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>e773563eb1e447207d3978760a5cab0b56fb9bac</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.pdb</NombreArchivo>
+    <TamanioFisico>34304</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:55:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>2215b9576a8c3ac881264b988b4f2ff982a94646</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>745</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>b9e1000e56118b4ed8c05e2dad10503289dad1f0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.dll</NombreArchivo>
+    <TamanioFisico>8192</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:55:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>e773563eb1e447207d3978760a5cab0b56fb9bac</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.pdb</NombreArchivo>
+    <TamanioFisico>34304</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:55:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>2215b9576a8c3ac881264b988b4f2ff982a94646</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>7797</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:55:38</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>037b12256edc1c9e1a1278e75b15dbf6de1893c2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>7950</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>1450ac2733384fb2e9f866c3503a946e8cb206b7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1395</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Properties</CarpetaContenedora>
+    <HuellaDigital>dda3af2ce73e2966f0d92c37f7a13f2234991098</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1-vsdoc.js</NombreArchivo>
+    <TamanioFisico>242990</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>95f3172264f656cb38805e54b43406a459b9f2ec</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.js</NombreArchivo>
+    <TamanioFisico>168792</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>265c43a879148f908d2427b14bc2d9baef037ba2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.min.js</NombreArchivo>
+    <TamanioFisico>71922</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>9a8c568e6b5bfe8fe897942385190641572989ca</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.css</NombreArchivo>
+    <TamanioFisico>4258</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\AppWebExamen\Styles</CarpetaContenedora>
+    <HuellaDigital>01217854583c474d154712500838ad0a7f960c87</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examen.sln</NombreArchivo>
+    <TamanioFisico>3636</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES</CarpetaContenedora>
+    <HuellaDigital>7c6fd4a29c950d0a2590ad6a76d00b3b6cff0ad7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examen.suo</NombreArchivo>
+    <TamanioFisico>52736</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:06:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES</CarpetaContenedora>
+    <HuellaDigital>f05281df9638f5d2bd4e35a7a44c0f216ad8e3f3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj</NombreArchivo>
+    <TamanioFisico>7212</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>c9e1c6bf455b3935a04b560a31df7df0669fe9f6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj.user</NombreArchivo>
+    <TamanioFisico>1086</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>196bda7ac7fec7b2b05ec62fcb9a1ecb463fefc7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx</NombreArchivo>
+    <TamanioFisico>5633</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:01:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>e9af8ffe3bff3117c26bd2d3ef5900f3e6313a09</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx.cs</NombreArchivo>
+    <TamanioFisico>2759</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:01:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>04f2031e65d1c98906f073decd50488a71d8d883</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>5159</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>ca15947e0f00f7d1f3f41ee1fcc0fe774761bb36</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax</NombreArchivo>
+    <TamanioFisico>96</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>875e44e9eca94a2e823f8437dcb86358cd6f5227</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax.cs</NombreArchivo>
+    <TamanioFisico>1195</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>d3c43d343f60491de4618d5ff0df5f084a6bc16d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>1586</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>2d54575ba52ea74538ebc6c02fef009a4102cc7f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.cs</NombreArchivo>
+    <TamanioFisico>915</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:13:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>8a4f2eab542f530af24f05348600a4318aa5c415</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>2524</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:08:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>9728ac5ec57faf70857c44cecfcf113ac356d7ac</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master</NombreArchivo>
+    <TamanioFisico>1772</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>f4d38ac2867ca2fcdbd05b585f2e1761842ec15a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.cs</NombreArchivo>
+    <TamanioFisico>344</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>841c229ba69ad7b3441e4c6ebbdf517fbfbe9531</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.designer.cs</NombreArchivo>
+    <TamanioFisico>1146</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>8ebd710d2ae2b4cc28f619d5c03106724374f25a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>2002</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>69342e0eab916d3b94721745201e40b37d91552f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Debug.config</NombreArchivo>
+    <TamanioFisico>1285</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>0386eab82a9c6ac4670310a0e2d25ff6a62cb931</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Release.config</NombreArchivo>
+    <TamanioFisico>1346</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>5714cd1d7c5cda32f90d0ba9bdce3602aa04ade3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx</NombreArchivo>
+    <TamanioFisico>4481</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>ebc29a23581950510ac3847a83d10a9a9bd35ee7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.cs</NombreArchivo>
+    <TamanioFisico>350</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>c5eeda3a36728e82cf63662f4b95b082d7ee27fc</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>813</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>5d678b725305de1796dcd795c2add7a0b0f85ba0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx</NombreArchivo>
+    <TamanioFisico>529</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>7d7a13fac80135199ec5bdce131f889d41d734a6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.cs</NombreArchivo>
+    <TamanioFisico>357</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>35de1ba4b9e04dbbfc8680455dc9f34d59116671</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>474</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>4d8cc69987c25e58e442a972e2518e5cdfe9c471</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>3069</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>b27631f467fdeec1971890100e553d892d178783</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.cs</NombreArchivo>
+    <TamanioFisico>470</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>bc81b0354d7afefbacb0b58746f7c85d5acbb247</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>1116</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>3d1e9fc117a3a2152fbc309ebc9b6b422e1037e3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx</NombreArchivo>
+    <TamanioFisico>5675</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>70814898b6c0dbc3ab4097534355c20cc429c7f6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.cs</NombreArchivo>
+    <TamanioFisico>912</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>56b1996bd79e19a5f7154004840ff7e7cf0146e5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>1157</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>742b839cca24c9dc6424eeb0b1a2306023915e36</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>330</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>3230ac1dbab7d2c15a2e783e8199ed47e14a04e8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.dll</NombreArchivo>
+    <TamanioFisico>9216</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:58</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>ef815c1f8010ab2d049d45f2b0ef02ff7fc8e8a9</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.pdb</NombreArchivo>
+    <TamanioFisico>40448</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:58</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>102d0e72018129b15d12183b132924dc6f0992a7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>1545</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:58</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>5d4d72feadc3b304bdca2cc3ac0716beb16b064f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.dll</NombreArchivo>
+    <TamanioFisico>9216</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:58</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>ef815c1f8010ab2d049d45f2b0ef02ff7fc8e8a9</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.pdb</NombreArchivo>
+    <TamanioFisico>40448</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:58</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>102d0e72018129b15d12183b132924dc6f0992a7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>8097</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:04:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>cd50fb1c9a63a1dcc0f1cd1e062056a0e25b203e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>14411</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>3ec9a0fd2b1367ef42342f4059b8cc331ea0b04a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1395</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Properties</CarpetaContenedora>
+    <HuellaDigital>dda3af2ce73e2966f0d92c37f7a13f2234991098</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1-vsdoc.js</NombreArchivo>
+    <TamanioFisico>242990</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>95f3172264f656cb38805e54b43406a459b9f2ec</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.js</NombreArchivo>
+    <TamanioFisico>168792</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>265c43a879148f908d2427b14bc2d9baef037ba2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.min.js</NombreArchivo>
+    <TamanioFisico>71922</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>9a8c568e6b5bfe8fe897942385190641572989ca</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.css</NombreArchivo>
+    <TamanioFisico>4258</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\AppWebExamen\Styles</CarpetaContenedora>
+    <HuellaDigital>01217854583c474d154712500838ad0a7f960c87</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>EXAMEN.cs</NombreArchivo>
+    <TamanioFisico>405</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:12:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects</CarpetaContenedora>
+    <HuellaDigital>42f3257d3d0be51b0fac28635c454b6e7411db34</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenBussinessObjects.csproj</NombreArchivo>
+    <TamanioFisico>2599</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects</CarpetaContenedora>
+    <HuellaDigital>a8a4a33e7bdbfc45039bdebb87f61854be7f6f98</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>PARTICIPANTE.cs</NombreArchivo>
+    <TamanioFisico>545</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects</CarpetaContenedora>
+    <HuellaDigital>8c51c7655d4d31991de38ef3bf8ece3ba85d205b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>5753</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:04:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>902d4aeb448eed2edc547ac9204bf97e696d1ebf</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenBussinessObjects.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>1161</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:47:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>d0e4b7eca29bd3a494796b9178b7cafbb9003af8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>5081</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>6cc3b0498be45cd67c06ba7c7ff842ac176bcde5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1444</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:10:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\BussinessObjects\Properties</CarpetaContenedora>
+    <HuellaDigital>273fcbd465b4d17b686da8ece20c4e508b39e37e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DAL_EXAMEN.cs</NombreArchivo>
+    <TamanioFisico>2403</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:28</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>c0d35f3bd19be5d11932bbff1d64c693938ef6b5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DBAction.cs</NombreArchivo>
+    <TamanioFisico>281</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:23:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>c3bb2a222afcb340f5243e8bee3a2b77ea578fdd</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.csproj</NombreArchivo>
+    <TamanioFisico>2448</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>3f5d66cb941924f594a6c6fc9a1c40ac86b5d88c</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>GENERIC_DAL.cs</NombreArchivo>
+    <TamanioFisico>3242</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>018cc69168b24bd538bfcece67f0543058a14f6c</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>NotParameter.cs</NombreArchivo>
+    <TamanioFisico>193</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:14</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>cfc8006b498681382a3f027324d5f6c70c369b42</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>5655</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:04:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>f9066b2c9b0547e9be9dfb9943d5c15cb9468191</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>835</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:47:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>4239ebb3b7ca3ec32e6745558b6768c10b4e7c9d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1444</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:14:54</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenDataAccess\Properties</CarpetaContenedora>
+    <HuellaDigital>f8d7570dd9aee1dadd342bff9e2560559b637030</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenWebApp.csproj</NombreArchivo>
+    <TamanioFisico>6764</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>a1c7b7075fb6f10ce1b4a4d03e1d7100cfd0d2b3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenWebApp.csproj.user</NombreArchivo>
+    <TamanioFisico>1086</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>196bda7ac7fec7b2b05ec62fcb9a1ecb463fefc7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax</NombreArchivo>
+    <TamanioFisico>96</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:46</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>94d1c57915a9c42a30e4ee259530b3f9be2b5ca3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax.cs</NombreArchivo>
+    <TamanioFisico>1195</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>994de7e7bf7bfa76d708441c6d58f5eb000c7159</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site1.Master</NombreArchivo>
+    <TamanioFisico>644</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>1364962b2fb8dd7d02f2181641d2a36b536b0f07</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site1.Master.cs</NombreArchivo>
+    <TamanioFisico>337</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>c2238dd10b65406d3bc613fe50f55a8173aa614e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site1.Master.designer.cs</NombreArchivo>
+    <TamanioFisico>1117</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>648610b774766bbf0b68037ff0d99a8cfc14dac4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>2002</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>69342e0eab916d3b94721745201e40b37d91552f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Debug.config</NombreArchivo>
+    <TamanioFisico>1285</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>0386eab82a9c6ac4670310a0e2d25ff6a62cb931</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Release.config</NombreArchivo>
+    <TamanioFisico>1346</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>5714cd1d7c5cda32f90d0ba9bdce3602aa04ade3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>6884</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>409efded13c92fdfa21538ae7ea0589088fa1317</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1395</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\ExamenWebApp\Properties</CarpetaContenedora>
+    <HuellaDigital>9fc6cdf69ffc22663ed53d52c428a63c152badb8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>CatalogoPresenter.cs</NombreArchivo>
+    <TamanioFisico>3030</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP</CarpetaContenedora>
+    <HuellaDigital>66c77669d9e6a8517f07ff4c5e9031cb92dfaf0f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.csproj</NombreArchivo>
+    <TamanioFisico>2758</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP</CarpetaContenedora>
+    <HuellaDigital>de425e1fa1293294a24e510126ed5a60273b7f1b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>5825</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:04:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>9e6d924f550ec0bad9a4600c1fe9d75647aef4e4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>1149</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:47:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>78628ea1aacffe071c648d678de8bc0864530d98</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>8637</TamanioFisico>
+    <FechaArchivo>30/11/2011 22:46:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>e38a9bbb310dd7a6beb58a8cdfe02dbcbdae1080</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1418</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:28:28</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\Examen\LTORRES\MVP\Properties</CarpetaContenedora>
+    <HuellaDigital>7d29a707f7897232faab759d0be75d2f3cb58b3f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examen.sln</NombreArchivo>
+    <TamanioFisico>3636</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES</CarpetaContenedora>
+    <HuellaDigital>7c6fd4a29c950d0a2590ad6a76d00b3b6cff0ad7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examen.suo</NombreArchivo>
+    <TamanioFisico>39936</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:09:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:09:56</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES</CarpetaContenedora>
+    <HuellaDigital>805b0903f24f3f5034354ce8ad8c926ca4443ea1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj</NombreArchivo>
+    <TamanioFisico>7212</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>c9e1c6bf455b3935a04b560a31df7df0669fe9f6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj.user</NombreArchivo>
+    <TamanioFisico>1086</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>196bda7ac7fec7b2b05ec62fcb9a1ecb463fefc7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx</NombreArchivo>
+    <TamanioFisico>5633</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:01:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>e9af8ffe3bff3117c26bd2d3ef5900f3e6313a09</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx.cs</NombreArchivo>
+    <TamanioFisico>2759</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:01:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>04f2031e65d1c98906f073decd50488a71d8d883</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Examenes.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>5159</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>ca15947e0f00f7d1f3f41ee1fcc0fe774761bb36</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax</NombreArchivo>
+    <TamanioFisico>96</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>875e44e9eca94a2e823f8437dcb86358cd6f5227</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax.cs</NombreArchivo>
+    <TamanioFisico>1195</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>d3c43d343f60491de4618d5ff0df5f084a6bc16d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>1586</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>2d54575ba52ea74538ebc6c02fef009a4102cc7f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.cs</NombreArchivo>
+    <TamanioFisico>915</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:13:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>8a4f2eab542f530af24f05348600a4318aa5c415</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>2524</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:08:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>9728ac5ec57faf70857c44cecfcf113ac356d7ac</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master</NombreArchivo>
+    <TamanioFisico>1772</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>f4d38ac2867ca2fcdbd05b585f2e1761842ec15a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.cs</NombreArchivo>
+    <TamanioFisico>344</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>841c229ba69ad7b3441e4c6ebbdf517fbfbe9531</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.designer.cs</NombreArchivo>
+    <TamanioFisico>1146</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:14:02</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>8ebd710d2ae2b4cc28f619d5c03106724374f25a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>2002</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>69342e0eab916d3b94721745201e40b37d91552f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Debug.config</NombreArchivo>
+    <TamanioFisico>1285</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>0386eab82a9c6ac4670310a0e2d25ff6a62cb931</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Release.config</NombreArchivo>
+    <TamanioFisico>1346</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen</CarpetaContenedora>
+    <HuellaDigital>5714cd1d7c5cda32f90d0ba9bdce3602aa04ade3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx</NombreArchivo>
+    <TamanioFisico>4481</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>ebc29a23581950510ac3847a83d10a9a9bd35ee7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.cs</NombreArchivo>
+    <TamanioFisico>350</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>c5eeda3a36728e82cf63662f4b95b082d7ee27fc</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>813</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>5d678b725305de1796dcd795c2add7a0b0f85ba0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx</NombreArchivo>
+    <TamanioFisico>529</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>7d7a13fac80135199ec5bdce131f889d41d734a6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.cs</NombreArchivo>
+    <TamanioFisico>357</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>35de1ba4b9e04dbbfc8680455dc9f34d59116671</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>474</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>4d8cc69987c25e58e442a972e2518e5cdfe9c471</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>3069</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>b27631f467fdeec1971890100e553d892d178783</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.cs</NombreArchivo>
+    <TamanioFisico>470</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>bc81b0354d7afefbacb0b58746f7c85d5acbb247</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>1116</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>3d1e9fc117a3a2152fbc309ebc9b6b422e1037e3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx</NombreArchivo>
+    <TamanioFisico>5675</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>70814898b6c0dbc3ab4097534355c20cc429c7f6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.cs</NombreArchivo>
+    <TamanioFisico>912</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>56b1996bd79e19a5f7154004840ff7e7cf0146e5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.designer.cs</NombreArchivo>
+    <TamanioFisico>1157</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>742b839cca24c9dc6424eeb0b1a2306023915e36</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>330</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Account</CarpetaContenedora>
+    <HuellaDigital>3230ac1dbab7d2c15a2e783e8199ed47e14a04e8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.dll</NombreArchivo>
+    <TamanioFisico>9216</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>22502dfde2b2158f274476a5a93fba0b1f1dd260</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.pdb</NombreArchivo>
+    <TamanioFisico>40448</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>6942cae879e52a6ac1b626a3f1e5d36fafff616e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\bin</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>1578</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>caa2248c9ed078ccab395f8c2c274cf4b687bc3a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.dll</NombreArchivo>
+    <TamanioFisico>9216</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>22502dfde2b2158f274476a5a93fba0b1f1dd260</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AppWebExamen.pdb</NombreArchivo>
+    <TamanioFisico>40448</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>6942cae879e52a6ac1b626a3f1e5d36fafff616e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>7957</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>db09053a1ab322d911ee66140e47af5cccddd770</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>14429</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:51</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>0ab485a7ff6b2abd9e1e531f214df26a7fbbf0ad</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1395</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Properties</CarpetaContenedora>
+    <HuellaDigital>dda3af2ce73e2966f0d92c37f7a13f2234991098</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1-vsdoc.js</NombreArchivo>
+    <TamanioFisico>242990</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>95f3172264f656cb38805e54b43406a459b9f2ec</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.js</NombreArchivo>
+    <TamanioFisico>168792</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>265c43a879148f908d2427b14bc2d9baef037ba2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.min.js</NombreArchivo>
+    <TamanioFisico>71922</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Scripts</CarpetaContenedora>
+    <HuellaDigital>9a8c568e6b5bfe8fe897942385190641572989ca</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.css</NombreArchivo>
+    <TamanioFisico>4258</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:51:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\AppWebExamen\Styles</CarpetaContenedora>
+    <HuellaDigital>01217854583c474d154712500838ad0a7f960c87</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>EXAMEN.cs</NombreArchivo>
+    <TamanioFisico>405</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:12:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects</CarpetaContenedora>
+    <HuellaDigital>42f3257d3d0be51b0fac28635c454b6e7411db34</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenBussinessObjects.csproj</NombreArchivo>
+    <TamanioFisico>2599</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects</CarpetaContenedora>
+    <HuellaDigital>a8a4a33e7bdbfc45039bdebb87f61854be7f6f98</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>PARTICIPANTE.cs</NombreArchivo>
+    <TamanioFisico>545</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:32</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects</CarpetaContenedora>
+    <HuellaDigital>8c51c7655d4d31991de38ef3bf8ece3ba85d205b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>5732</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>217a75b6f25004de68d03d6869a7b44755c9a7a4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenBussinessObjects.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>563</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>29f1cf122afdd821425d7973033a3cddac2d5a4b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>5087</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:51</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>0858501389836056c1520a26cef817de95a6733f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1444</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:10:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\BussinessObjects\Properties</CarpetaContenedora>
+    <HuellaDigital>273fcbd465b4d17b686da8ece20c4e508b39e37e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DAL_EXAMEN.cs</NombreArchivo>
+    <TamanioFisico>2403</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:28</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>c0d35f3bd19be5d11932bbff1d64c693938ef6b5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DBAction.cs</NombreArchivo>
+    <TamanioFisico>281</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:23:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>c3bb2a222afcb340f5243e8bee3a2b77ea578fdd</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.csproj</NombreArchivo>
+    <TamanioFisico>2448</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>3f5d66cb941924f594a6c6fc9a1c40ac86b5d88c</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>GENERIC_DAL.cs</NombreArchivo>
+    <TamanioFisico>3242</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>018cc69168b24bd538bfcece67f0543058a14f6c</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>NotParameter.cs</NombreArchivo>
+    <TamanioFisico>193</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:14</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess</CarpetaContenedora>
+    <HuellaDigital>cfc8006b498681382a3f027324d5f6c70c369b42</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>5641</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>28caf315f45e689d4254a23d6af2a9a392db0a30</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>405</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:40:42</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>88960f2e8baddd19ad599e69fac12ff7bff1fbbf</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1444</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:14:54</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenDataAccess\Properties</CarpetaContenedora>
+    <HuellaDigital>f8d7570dd9aee1dadd342bff9e2560559b637030</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenWebApp.csproj</NombreArchivo>
+    <TamanioFisico>6764</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>a1c7b7075fb6f10ce1b4a4d03e1d7100cfd0d2b3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenWebApp.csproj.user</NombreArchivo>
+    <TamanioFisico>1086</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>196bda7ac7fec7b2b05ec62fcb9a1ecb463fefc7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax</NombreArchivo>
+    <TamanioFisico>96</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>94d1c57915a9c42a30e4ee259530b3f9be2b5ca3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax.cs</NombreArchivo>
+    <TamanioFisico>1195</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>994de7e7bf7bfa76d708441c6d58f5eb000c7159</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site1.Master</NombreArchivo>
+    <TamanioFisico>644</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>1364962b2fb8dd7d02f2181641d2a36b536b0f07</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site1.Master.cs</NombreArchivo>
+    <TamanioFisico>337</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>c2238dd10b65406d3bc613fe50f55a8173aa614e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site1.Master.designer.cs</NombreArchivo>
+    <TamanioFisico>1117</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>648610b774766bbf0b68037ff0d99a8cfc14dac4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>2002</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>69342e0eab916d3b94721745201e40b37d91552f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Debug.config</NombreArchivo>
+    <TamanioFisico>1285</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>0386eab82a9c6ac4670310a0e2d25ff6a62cb931</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Release.config</NombreArchivo>
+    <TamanioFisico>1346</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp</CarpetaContenedora>
+    <HuellaDigital>5714cd1d7c5cda32f90d0ba9bdce3602aa04ade3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>6884</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:48:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>409efded13c92fdfa21538ae7ea0589088fa1317</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1395</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:44:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\ExamenWebApp\Properties</CarpetaContenedora>
+    <HuellaDigital>9fc6cdf69ffc22663ed53d52c428a63c152badb8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>CatalogoPresenter.cs</NombreArchivo>
+    <TamanioFisico>3030</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP</CarpetaContenedora>
+    <HuellaDigital>66c77669d9e6a8517f07ff4c5e9031cb92dfaf0f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.csproj</NombreArchivo>
+    <TamanioFisico>2758</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:08</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP</CarpetaContenedora>
+    <HuellaDigital>de425e1fa1293294a24e510126ed5a60273b7f1b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.dll</NombreArchivo>
+    <TamanioFisico>6144</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>b58a11e5066cd0e3a8a4bb7b57a7aeb6c6314d8d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>BussinessObjects.pdb</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:52:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>dbfa0878b5513e8451cbe3bcf9f43755b85c2ad4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>cdd345e14bd071f59c8ad1bc9da7c6dd3d240a92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ExamenDataAccess.pdb</NombreArchivo>
+    <TamanioFisico>17920</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:43:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>25d0bb438d9f9bb3cce077013f01b12ee950b30f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\bin\Debug</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>5797</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>06c8f0b9983522c13e4b6e31ff003e914b72ba3f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.csproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>552</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>5b009ac48df22698fe436e307ca3229beb79c949</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.dll</NombreArchivo>
+    <TamanioFisico>6656</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>c51d089405edfd750e71bfeec89db9a17ec3f562</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MVP.pdb</NombreArchivo>
+    <TamanioFisico>13824</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>87a4863e5a0d397bca09d21d810bd2b07f917d2f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ResolveAssemblyReference.cache</NombreArchivo>
+    <TamanioFisico>8649</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:07:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:51</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>0b52d4ed855ca6ee69c7d346b613470f83b9eb42</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.cs</NombreArchivo>
+    <TamanioFisico>1418</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:28:28</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 11:07:11</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\abraham\LTORRES\MVP\Properties</CarpetaContenedora>
+    <HuellaDigital>7d29a707f7897232faab759d0be75d2f3cb58b3f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.sln</NombreArchivo>
+    <TamanioFisico>908</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:28</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen</CarpetaContenedora>
+    <HuellaDigital>1547cdd6e6625da00f7d3cbd2804b5ba02cf59d2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.suo</NombreArchivo>
+    <TamanioFisico>40448</TamanioFisico>
+    <FechaArchivo>02/12/2011 11:44:36</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen</CarpetaContenedora>
+    <HuellaDigital>352d5d2af17e249f698b5577b398c66d9760d0ff</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Default.aspx</NombreArchivo>
+    <TamanioFisico>484</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:58:43</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>0b08ee887a75e48c97b466770a1c670947089be0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Default.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>447</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:16:43</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>e7dd79a310dafbb7a9b47ec08a505213b080da86</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Default.aspx.vb</NombreArchivo>
+    <TamanioFisico>185</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>a8cfbfcf2e451bc6a390d083db847a919b071df1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.vbproj</NombreArchivo>
+    <TamanioFisico>12192</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:58:43</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>ccc4aad22d6cc48ec8ab8a61b608e5654d890d3b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.vbproj.user</NombreArchivo>
+    <TamanioFisico>1086</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:58:43</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>196bda7ac7fec7b2b05ec62fcb9a1ecb463fefc7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax</NombreArchivo>
+    <TamanioFisico>95</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>4e310f4c02d418a25125bf1f3034418a5ea4d9a2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Global.asax.vb</NombreArchivo>
+    <TamanioFisico>1062</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>0caf6c327661f4059cd754866558fb97a694f517</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>login.aspx</NombreArchivo>
+    <TamanioFisico>692</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:58:43</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>b8f00e7baeeabb2d14cb249cc648e74233836971</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>login.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>1892</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:49:29</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>1f75671535be5d3360b349958db57e96c534188f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>login.aspx.vb</NombreArchivo>
+    <TamanioFisico>974</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:34:20</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>f3ed7f8dfc4a47ccf161a578af7f6d3ded34b177</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master</NombreArchivo>
+    <TamanioFisico>2053</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:15:13</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>4505cda4d81e38e3c2a0320093d2dfe21e2adfbc</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.designer.vb</NombreArchivo>
+    <TamanioFisico>1648</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:53:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>86fe12d1281c346111ad98e65cceaa0432e6cd5d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.Master.vb</NombreArchivo>
+    <TamanioFisico>187</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>e51a5517bc634c6598970fb319b37b2b71bd9dec</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>2033</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>458604d20445877817d90ae2a389d231fe4772d6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Debug.config</NombreArchivo>
+    <TamanioFisico>1285</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>0386eab82a9c6ac4670310a0e2d25ff6a62cb931</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.Release.config</NombreArchivo>
+    <TamanioFisico>1346</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen</CarpetaContenedora>
+    <HuellaDigital>5714cd1d7c5cda32f90d0ba9bdce3602aa04ade3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx</NombreArchivo>
+    <TamanioFisico>4466</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>074f9ef4580b0dd117cfcc01ddda191a164f2d48</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>773</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>876c20165170ed089d4dc27453603b6e2dcae09f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePassword.aspx.vb</NombreArchivo>
+    <TamanioFisico>191</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>1257c09749c2e057f8e345ee65cbdb1af58fe4a1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx</NombreArchivo>
+    <TamanioFisico>516</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>be79256a0ca8e77954e50d61509b388c29b6623f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>461</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>aa4ee0127a05a0a6e9cddb06ef38b273a7340ab1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>ChangePasswordSuccess.aspx.vb</NombreArchivo>
+    <TamanioFisico>198</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>cd57009a3d6f9578bab98a31f7a0d732a773612c</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx</NombreArchivo>
+    <TamanioFisico>3054</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>fefef97194c5417d9558652cd078f57a35f8218f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>1049</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>9f9ba0ed561bed80feb75bd94e114a80c66fce1d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Login.aspx.vb</NombreArchivo>
+    <TamanioFisico>306</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>9d6028a559304d03f43f39db709125aad78a28f1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx</NombreArchivo>
+    <TamanioFisico>5619</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>edc4218628f4b8c18d4f42a1b2fb97b61d3d41d0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>1090</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>150916cd1d91b6c4814c52cfb3878fe9b5d69d6f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Register.aspx.vb</NombreArchivo>
+    <TamanioFisico>696</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>28e3cde67de83de8e592b40b6914d7a0b0f07756</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Web.config</NombreArchivo>
+    <TamanioFisico>330</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:09</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Account</CarpetaContenedora>
+    <HuellaDigital>3230ac1dbab7d2c15a2e783e8199ed47e14a04e8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.dll</NombreArchivo>
+    <TamanioFisico>29184</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\bin</CarpetaContenedora>
+    <HuellaDigital>f150caef4eb977bd33943a2e44e1c2871450bac0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.pdb</NombreArchivo>
+    <TamanioFisico>87552</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\bin</CarpetaContenedora>
+    <HuellaDigital>710b562ad74ae69e6df5ca4aaf04217209f76ab5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.xml</NombreArchivo>
+    <TamanioFisico>6663</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:54:52</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\bin</CarpetaContenedora>
+    <HuellaDigital>c7697e6c490cd2c10b4833e18823fc6732510b99</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>altaExa.aspx</NombreArchivo>
+    <TamanioFisico>1064</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:09:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>fe54fda48fec7556288a321021ecd0265191617b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>altaExa.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>3047</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:02:29</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>2d091ce1b18d9a8dbac5ab6356f14fe8a9095dc2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>altaExa.aspx.vb</NombreArchivo>
+    <TamanioFisico>308</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:09:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>ea4752b9503921272ec332ee696c4beb0ac86d8b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consulExa.aspx</NombreArchivo>
+    <TamanioFisico>343</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:43:59</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>0e7bb522699ab14ebaa127863c1105d191b0eb5b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consulExa.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>449</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:43:59</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>1eacd1087e81e504fe90851bbea12ce741cf3c2e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consulExa.aspx.vb</NombreArchivo>
+    <TamanioFisico>186</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:43:59</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>08c2a83d9ec98fe3d8c56b66a452e254668aeac5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examenes.aspx</NombreArchivo>
+    <TamanioFisico>989</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:15:13</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>e007c76cdeaa9e82ff9e26ab07cb213132f3e845</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examenes.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>730</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:40:37</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>9ac8405d71bf5bc476ddd4356f1ad3d67a96c2e6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examenes.aspx.vb</NombreArchivo>
+    <TamanioFisico>449</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:35:31</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>e22d99b578985ed93d6fce65a190bfadc505b14f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>modExa.aspx</NombreArchivo>
+    <TamanioFisico>337</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:43:41</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>ec109617445ded0a8c5c20b914c7e8beb1befeee</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>modExa.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>446</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:43:41</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>1efb36b463fc45f3050d08fa4732bb9fda659c61</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>modExa.aspx.vb</NombreArchivo>
+    <TamanioFisico>183</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:43:41</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\examenes</CarpetaContenedora>
+    <HuellaDigital>95199b40ca8ede5726a6e8a3851ba5c5614daa8b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>pj.png</NombreArchivo>
+    <TamanioFisico>15249</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:58:13</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\imagenes</CarpetaContenedora>
+    <HuellaDigital>a72a9978ff2937829c011119c9696a86d6cb6389</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Application.Designer.vb</NombreArchivo>
+    <TamanioFisico>402</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>495506e9c870cb84b384d14e1189c863f4e5f75d</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Application.myapp</NombreArchivo>
+    <TamanioFisico>481</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>52e3c4e058b93f0e314eb8889eb871beda2f7709</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>AssemblyInfo.vb</NombreArchivo>
+    <TamanioFisico>1163</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>23397549863ace82f77ed26afff8f37206a1ad34</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Resources.Designer.vb</NombreArchivo>
+    <TamanioFisico>2756</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>66bddcb588c1a5cabf92db240b7f96d068c0220b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Resources.resx</NombreArchivo>
+    <TamanioFisico>5612</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>92c24f1bb763fdf2fcc4208a1d910640d653a053</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Settings.Designer.vb</NombreArchivo>
+    <TamanioFisico>2950</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>d6abdaab304503c98d5339cd5317b3b529b1f773</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Settings.settings</NombreArchivo>
+    <TamanioFisico>279</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project</CarpetaContenedora>
+    <HuellaDigital>9a820bef12266f5e641770f44af881f9517f5222</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>MyWebExtension.vb</NombreArchivo>
+    <TamanioFisico>7611</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\My Project\MyExtensions</CarpetaContenedora>
+    <HuellaDigital>784ce9c06d8b0d2c96d7a83eb2fd2475e5699daa</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>DesignTimeResolveAssemblyReferencesInput.cache</NombreArchivo>
+    <TamanioFisico>8385</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>a4c8c92fd5c5110676418ec69e7cb1b82ca64b95</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.dll</NombreArchivo>
+    <TamanioFisico>29184</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:54:51</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>f150caef4eb977bd33943a2e44e1c2871450bac0</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.pdb</NombreArchivo>
+    <TamanioFisico>87552</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:54:51</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>710b562ad74ae69e6df5ca4aaf04217209f76ab5</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.Resources.resources</NombreArchivo>
+    <TamanioFisico>180</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>dbbbbe2694d4b9b990881f279b4313574dbeac9b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.vbproj.FileListAbsolute.txt</NombreArchivo>
+    <TamanioFisico>1420</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>f7c5b5c38a393d41fcb273c4a0457588d59321d6</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examen.xml</NombreArchivo>
+    <TamanioFisico>6663</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:54:51</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>c7697e6c490cd2c10b4833e18823fc6732510b99</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>GenerateResource.read.1.tlog</NombreArchivo>
+    <TamanioFisico>288</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>d2ad7863d296a28cd2909e5a5ec6fc13fcc4b042</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>GenerateResource.write.1.tlog</NombreArchivo>
+    <TamanioFisico>614</TamanioFisico>
+    <FechaArchivo>02/12/2011 10:54:51</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug</CarpetaContenedora>
+    <HuellaDigital>56637fe7e41bc824e78eb4e99a45978c404b339b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>My Project.Resources.Designer.vb.dll</NombreArchivo>
+    <TamanioFisico>7680</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:14:35</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\obj\Debug\TempPE</CarpetaContenedora>
+    <HuellaDigital>edf75e678471b39d566c714a1bbaa53f0d5b9bb4</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>altaPar.aspx</NombreArchivo>
+    <TamanioFisico>339</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:38:42</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>c0c3467284244177ab02a5afddc9ec0f7483bec8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>altaPar.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>447</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:38:42</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>9dae8014b29fc1e19678a14b60cc1f5ff2f54487</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>altaPar.aspx.vb</NombreArchivo>
+    <TamanioFisico>184</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:38:42</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>d7ff2e4af271580e4f8179f19c402cd267602eab</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consPar.aspx</NombreArchivo>
+    <TamanioFisico>339</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:39:11</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>ac59e20e7a06f827d33f59f58b936cd980841363</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consPar.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>447</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:39:11</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>51231b5221fac85a7b6c9d61dfb49074af187750</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consPar.aspx.vb</NombreArchivo>
+    <TamanioFisico>184</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:39:11</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>89e44add4d3153f8ab1d56693537e29447f40965</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>participantes.aspx</NombreArchivo>
+    <TamanioFisico>834</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:15:13</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>63a9ede187bf019ff9be360a611d663ec88137cc</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>participantes.aspx.designer.vb</NombreArchivo>
+    <TamanioFisico>735</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:40:06</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>1949c1a3f8e4d69e626b02a3328df824942acb31</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>participantes.aspx.vb</NombreArchivo>
+    <TamanioFisico>450</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:54:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\participantes</CarpetaContenedora>
+    <HuellaDigital>13f86050397afa1c5e7a4b5be3ef6dbebfd436af</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1-vsdoc.js</NombreArchivo>
+    <TamanioFisico>242990</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Scripts</CarpetaContenedora>
+    <HuellaDigital>95f3172264f656cb38805e54b43406a459b9f2ec</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.js</NombreArchivo>
+    <TamanioFisico>168792</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Scripts</CarpetaContenedora>
+    <HuellaDigital>265c43a879148f908d2427b14bc2d9baef037ba2</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>jquery-1.4.1.min.js</NombreArchivo>
+    <TamanioFisico>71922</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:06:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Scripts</CarpetaContenedora>
+    <HuellaDigital>9a8c568e6b5bfe8fe897942385190641572989ca</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Site.css</NombreArchivo>
+    <TamanioFisico>4348</TamanioFisico>
+    <FechaArchivo>01/12/2011 10:15:04</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:53:10</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\AngelValencia\examen\examen\Styles</CarpetaContenedora>
+    <HuellaDigital>064832f7c28ade3150e8129e375bd660486cd98a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>index.asp</NombreArchivo>
+    <TamanioFisico>1698</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:12:18</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\JorgeMiranda</CarpetaContenedora>
+    <HuellaDigital>138b330275352ef48b424243dd62132611793de1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>logo.png</NombreArchivo>
+    <TamanioFisico>141553</TamanioFisico>
+    <FechaArchivo>01/12/2011 9:50:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\JorgeMiranda</CarpetaContenedora>
+    <HuellaDigital>b03f0d1391f11e3e7d644619c6b73160208687e8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>navcond.js</NombreArchivo>
+    <TamanioFisico>26194</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:02:54</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\JorgeMiranda</CarpetaContenedora>
+    <HuellaDigital>6337b02750b33e38dc52bd557f592e43d1e10ccd</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>principal.asp</NombreArchivo>
+    <TamanioFisico>339</TamanioFisico>
+    <FechaArchivo>01/12/2011 11:23:16</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\JorgeMiranda</CarpetaContenedora>
+    <HuellaDigital>84d20ca724d1af4bdfb23ffe3289596e3642d24e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>registrodeexamenes.asp</NombreArchivo>
+    <TamanioFisico>879</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:06:16</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\JorgeMiranda</CarpetaContenedora>
+    <HuellaDigital>34bdc447bedb3e01ea3971fb66879300675b188a</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>registrodeparticipantes.asp</NombreArchivo>
+    <TamanioFisico>260</TamanioFisico>
+    <FechaArchivo>01/12/2011 12:08:54</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\JorgeMiranda</CarpetaContenedora>
+    <HuellaDigital>b3bcd5a3254f9d312cc4d1c46b39beab1ef15673</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>concursoBD.mdf</NombreArchivo>
+    <TamanioFisico>3145728</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:21:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis</CarpetaContenedora>
+    <HuellaDigital>ac423fe4b5b747f625933e74b513dd206682b0fa</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>concursoBD_log.ldf</NombreArchivo>
+    <TamanioFisico>1048576</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:21:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis</CarpetaContenedora>
+    <HuellaDigital>75c9f6d0dca0cde356ca62b401147c744bb061e3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>LChavez.rar</NombreArchivo>
+    <TamanioFisico>861841</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:07:56</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis</CarpetaContenedora>
+    <HuellaDigital>a5bd876a59eb83a19daa24caf6c22a50b2f154fe</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>adminExamen.aspx</NombreArchivo>
+    <TamanioFisico>1118</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:12</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>08c0c49cf976a1392a47f580acce42baec9a0ca3</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>adminExamen.aspx.cs</NombreArchivo>
+    <TamanioFisico>361</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:52:22</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>75685a5d08fb1a6022eafe6c3c42dbf4828563c7</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Autentica.aspx</NombreArchivo>
+    <TamanioFisico>1561</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:36:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>29255aff79fd17d9b9be5366d57fa6cf9d5d469f</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Autentica.aspx.cs</NombreArchivo>
+    <TamanioFisico>281</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:07:14</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>64924a88e925009b9dd4c15a8c270527170bb03e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consultaExamenes.aspx</NombreArchivo>
+    <TamanioFisico>898</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:12</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>73ea61055577160b4d952e51304d4cb5586c6f89</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>consultaExamenes.aspx.cs</NombreArchivo>
+    <TamanioFisico>588</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:49:30</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>0a1baae3030910826723e14c8cdfca197e67a9da</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examenes.aspx</NombreArchivo>
+    <TamanioFisico>1387</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:12</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>5d71ac7c210da6810b091b84cf925561ebe367f1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>examenes.aspx.cs</NombreArchivo>
+    <TamanioFisico>280</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:53:00</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>b4484edd13d823e00bcb1fd702a192f8fef03281</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Inicio.aspx</NombreArchivo>
+    <TamanioFisico>573</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:36:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>52e17325b8388c5da87a2f85b5bc4ef66d7bf736</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Inicio.aspx.cs</NombreArchivo>
+    <TamanioFisico>278</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:15:16</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>7b7b98a81d43182891823c2edde9cb3540214a4b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>menuExamenes.aspx</NombreArchivo>
+    <TamanioFisico>1167</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:59:12</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>dfda83657496619057b7068e59626aa9dcea17bd</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>menuExamenes.aspx.cs</NombreArchivo>
+    <TamanioFisico>284</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:36:20</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>94f23c1c4b7fa4c29f2ba8fe169ace58dfc30c7b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>menuParticipantes.aspx</NombreArchivo>
+    <TamanioFisico>359</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:00:38</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>41fb546007e626c58273795993a8a6087da37d92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>menuParticipantes.aspx.cs</NombreArchivo>
+    <TamanioFisico>289</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:00:38</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>6c3cb501faad26d9b315bb5396da8e98830666a1</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>principal.master</NombreArchivo>
+    <TamanioFisico>2240</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:05:10</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>8ba2b345c746aa7dc57eb8d04fa4654cc5e9a8d9</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>principal.master.cs</NombreArchivo>
+    <TamanioFisico>380</TamanioFisico>
+    <FechaArchivo>30/11/2011 13:00:20</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>9ecc117e6741920970537c507c24f12233989db8</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>prueba01.aspx</NombreArchivo>
+    <TamanioFisico>465</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:36:24</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>7d5f5735d0137a69db1981d4cf9793752adec319</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>prueba01.aspx.cs</NombreArchivo>
+    <TamanioFisico>966</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:46:12</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>ba0a2c8c2fe3b808e38473fc57c4a3473a3af46b</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>web.config</NombreArchivo>
+    <TamanioFisico>290</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:13:44</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio</CarpetaContenedora>
+    <HuellaDigital>8b5b2cf98aedc61db15c57b3f7b21b65197b2c6e</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Class1.cs</NombreArchivo>
+    <TamanioFisico>1072</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:12:52</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\App_Code</CarpetaContenedora>
+    <HuellaDigital>b1c31332433939b728e5de30fba1263b9d4813db</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>clsDatos.cs</NombreArchivo>
+    <TamanioFisico>4585</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:53:20</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\App_Code</CarpetaContenedora>
+    <HuellaDigital>2c483d335dce7d5d220052b39562da18d85fac92</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>clsExamen.cs</NombreArchivo>
+    <TamanioFisico>5406</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:22:04</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\App_Code</CarpetaContenedora>
+    <HuellaDigital>835dbca4a229ca999b69c8a4958f54f4e8b6440c</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>clsNegocia.cs</NombreArchivo>
+    <TamanioFisico>5211</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:23:34</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\App_Code</CarpetaContenedora>
+    <HuellaDigital>429172d6fe6c124197b6f545bb0713ccb9145244</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>clsParticipantes.cs</NombreArchivo>
+    <TamanioFisico>2776</TamanioFisico>
+    <FechaArchivo>30/11/2011 12:34:04</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\App_Code</CarpetaContenedora>
+    <HuellaDigital>918fe21a676d9c256beec18cf4a3d5110327fd16</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>datos.cs</NombreArchivo>
+    <TamanioFisico>260</TamanioFisico>
+    <FechaArchivo>30/11/2011 11:05:40</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\App_Code</CarpetaContenedora>
+    <HuellaDigital>6d39bd68b47244771b62e5d959ec749da7feacec</HuellaDigital>
+  </HD_Archivos>
+  <HD_Archivos>
+    <NombreArchivo>Desert.jpg</NombreArchivo>
+    <TamanioFisico>845941</TamanioFisico>
+    <FechaArchivo>13/07/2009 23:52:26</FechaArchivo>
+    <FechaUltimaModificacion>02/12/2011 10:52:47</FechaUltimaModificacion>
+    <CarpetaContenedora>D:\ExamenesAspirantes\Luis\consursoSitio\img</CarpetaContenedora>
+    <HuellaDigital>30420d1a9afb2bcb60335812569af4435a59ce17</HuellaDigital>
+  </HD_Archivos>
+</HuellasDigitales>

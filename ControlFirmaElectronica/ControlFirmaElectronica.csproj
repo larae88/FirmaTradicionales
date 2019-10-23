@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{56B17384-92E8-4CEB-A815-9AB662B5BBAB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ControlFirmaElectronica</RootNamespace>
+    <AssemblyName>ControlFirmaElectronica</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AccesoDatos, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AccesoDatos.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.SeguriSIGNP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.SeguriSIGNP.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="GZipEncoder">
+      <HintPath>..\..\DLLS\GZipEncoder.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SeguriSIGNP, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.SeguriSIGNP.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfMetamorphosis">
+      <HintPath>..\..\DLLS\PdfMetamorphosis.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Service References\NotificacionElectronica\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="wfrAlerta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfrAlerta.Designer.cs">
+      <DependentUpon>wfrAlerta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="APISeguriSign.cs" />
+    <Compile Include="clsAcuerdos.cs" />
+    <Compile Include="clsConvierteaRTF.cs" />
+    <Compile Include="clsFirma.cs" />
+    <Compile Include="frmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoading.designer.cs">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="preview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="preview.Designer.cs">
+      <DependentUpon>preview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\Suscriptores\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="wfFirma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfFirma.Designer.cs">
+      <DependentUpon>wfFirma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfFirmaArchivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfFirmaArchivos.Designer.cs">
+      <DependentUpon>wfFirmaArchivos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="wfrAlerta.resx">
+      <DependentUpon>wfrAlerta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoading.resx">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="preview.resx">
+      <DependentUpon>preview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="wfFirma.resx">
+      <DependentUpon>wfFirma.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfFirmaArchivos.resx">
+      <DependentUpon>wfFirmaArchivos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\NotificacionElectronica\ControlFirmaElectronica.NotificacionElectronica.Acuses.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\NotificacionElectronica\ImplementacionNotificacionElectronica1.wsdl" />
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica1.wsdl" />
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica8.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica81.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica82.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica83.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica84.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica85.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica86.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica87.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Suscriptores\ControlFirmaElectronica.Suscriptores.EstadoLogeo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Suscriptores\ControlFirmaElectronica.Suscriptores.Suscriptor.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Suscriptores\ControlFirmaElectronica.Suscriptores.TiposDocumentacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Suscriptores\ControlFirmaElectronica.Suscriptores.TiposIdentificacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Suscriptores\ControlFirmaElectronica.Suscriptores.ValidadorAccesoSuscriptor.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Suscriptores\ImplementacionAccesoSuscriptores1.wsdl" />
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores.wsdl" />
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores1.wsdl" />
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores5.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\NotificacionElectronica\" />
+    <WCFMetadataStorage Include="Service References\Suscriptores\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Suscriptores\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Suscriptores\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Suscriptores\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\token.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Suscriptores\ServicioGestionSuscriptores.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\promocion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\firma_autografa_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diligencias_btn_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificacionElectronica\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificacionElectronica\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificacionElectronica\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vale_btn_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica1.disco" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

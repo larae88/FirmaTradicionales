@@ -1,0 +1,204 @@
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\AccesoDatos.dll
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\GZipEncoder.dll
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\PdfMetamorphosis.dll
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\MySql.Data.dll
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\AccesoDatos.pdb
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+D:\desarrollosNET_2010\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Downloads\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Downloads\nuevas pruebas\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\nuevos exes\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\UsuarioPJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\PJ\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\Alfonso Lara\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojResolveAssemblyReference.cache
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\ALFONSO\Desktop\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojResolveAssemblyReference.cache
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\ALFONSO\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\Alfonso Lara\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojResolveAssemblyReference.cache
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+H:\Respaldo\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe.config
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.exe
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug\ControlFirmaElectronica.pdb
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojResolveAssemblyReference.cache
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfrAlerta.resources
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\SistemaSC.frmLoading.resources
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
