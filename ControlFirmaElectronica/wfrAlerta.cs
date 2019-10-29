@@ -146,6 +146,17 @@ namespace ControlFirmaElectronica
                     strSQL = "update resoluciones_rp set resorp_fecha_imp= '" + DateTime.Now.ToString("yyyy/MM/dd") + "' , resorp_hora = '" + DateTime.Now.ToString("HH:mm:ss") + "' where resorp_id_Noti ='" + valor + "'";
                     Acuerdos.ActualizarImoresionRpp(strSQL);
                 }
+                if (Acuerdos.strURLAnexos.Count() > 0)
+                {
+                    int y = 0;
+                    for (int anexo = 0; anexo < Acuerdos.strURLAnexos.Count(); anexo++)
+                    {              
+                        linkImprimir.Links.Remove(linkImprimir.Links[0]);
+                        linkImprimir.Links.Add(0, linkImprimir.Text.Length, Acuerdos.strURLAnexos[anexo]);
+                        LinkLabelLinkClickedEventArgs x = new LinkLabelLinkClickedEventArgs(linkImprimir.Links[0]);
+                        linkImprimir_LinkClicked(null, x);
+                    }
+                }
             }
 
             if (MessageBox.Show("Desea volver a Reimprimir" , "Información", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.Yes)

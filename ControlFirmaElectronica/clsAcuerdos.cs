@@ -98,6 +98,7 @@ namespace ControlFirmaElectronica
 
         //Propiedad para la url que se genera
         public string strURL { get; set; }
+        public string[] strURLAnexos { get; set; }
 
         //Propiedad para filtrar las notificaciones
         public string strNumeroExpeBusqueda { get; set; }
@@ -1965,6 +1966,17 @@ namespace ControlFirmaElectronica
             {
                 strURL = acuses[1].ToString();
                 Resultado = true;
+
+                if (acuses.Count > 2)
+                {
+                    int i = 0;
+                    for (int anexo = 2; anexo < acuses.Count; anexo++)
+                    {
+                        strURLAnexos[i] = acuses[anexo].ToString();
+                          
+                    }
+               
+                }
             }
             else
             {

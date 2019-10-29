@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:tns="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion" elementFormDefault="qualified" targetNamespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:import schemaLocation="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd2" namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/hidra" />
-  <xs:import schemaLocation="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd3" namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/media" />
-  <xs:import schemaLocation="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/gto.poderjudicial.baseplataforma" />
-  <xs:import schemaLocation="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd6" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:import schemaLocation="http://10.1.23.14:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd2" namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/hidra" />
+  <xs:import schemaLocation="http://10.1.23.14:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd3" namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/media" />
+  <xs:import schemaLocation="http://10.1.23.14:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/gto.poderjudicial.baseplataforma" />
+  <xs:import schemaLocation="http://10.1.23.14:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd6" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <xs:complexType name="NotificacionElectronicaUploader">
     <xs:sequence>
       <xs:element minOccurs="0" name="Expediente" nillable="true" type="tns:Expedientes" />
@@ -150,6 +150,7 @@
   <xs:element name="ArrayOfAcuses" nillable="true" type="tns:ArrayOfAcuses" />
   <xs:complexType name="Acuses">
     <xs:sequence>
+      <xs:element xmlns:q15="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="Anexos" nillable="true" type="q15:ArrayOfstring" />
       <xs:element minOccurs="0" name="Expediente" nillable="true" type="xs:string" />
       <xs:element minOccurs="0" name="IdentificadorNotificacion" type="xs:long" />
       <xs:element minOccurs="0" name="Recepcion" nillable="true" type="xs:string" />

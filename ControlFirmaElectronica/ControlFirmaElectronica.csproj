@@ -182,30 +182,39 @@
     <None Include="Service References\NotificacionElectronica\ControlFirmaElectronica.NotificacionElectronica.Acuses.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
-    <None Include="Service References\NotificacionElectronica\ImplementacionNotificacionElectronica1.wsdl" />
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica1.wsdl" />
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica8.xsd">
+    <None Include="Service References\NotificacionElectronica\ControlFirmaElectronica.NotificacionElectronica.EstadoLogeo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\NotificacionElectronica\ControlFirmaElectronica.NotificacionElectronica.EstadoLogeoFederado.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\NotificacionElectronica\ControlFirmaElectronica.NotificacionElectronica.NotificacionElectronicaInformacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\NotificacionElectronica\ImplementacionNotificacionElectronica.wsdl" />
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica.wsdl" />
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica81.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica1.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica82.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica2.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica83.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica3.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica84.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica4.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica85.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica5.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica86.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica6.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica87.xsd">
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica7.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Service References\Suscriptores\ControlFirmaElectronica.Suscriptores.EstadoLogeo.datasource">
@@ -306,7 +315,7 @@
     <None Include="Resources\vale_btn_32.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Service References\NotificacionElectronica\NotificacionElectronica1.disco" />
+    <None Include="Service References\NotificacionElectronica\NotificacionElectronica.disco" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
