@@ -44,6 +44,18 @@
       <HintPath>bin\Debug\AxInterop.SeguriSIGNP.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
+    <Reference Include="evohtmltopdf, Version=7.5.0.0, Culture=neutral, PublicKeyToken=e1fcbb86597de299, processorArchitecture=MSIL">
+      <HintPath>..\packages\evopdf.7.5.0\lib\net40\evohtmltopdf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="evortftopdf, Version=7.1.0.0, Culture=neutral, PublicKeyToken=e1fcbb86597de299, processorArchitecture=MSIL">
+      <HintPath>..\packages\EvoPdf.RtfToPdf.7.1.0\lib\net40\evortftopdf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="evowordtopdf, Version=7.1.0.0, Culture=neutral, PublicKeyToken=e1fcbb86597de299, processorArchitecture=MSIL">
+      <HintPath>..\packages\EvoPdf.WordToPdf.7.1.0\lib\net40\evowordtopdf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="GZipEncoder">
       <HintPath>..\..\DLLS\GZipEncoder.dll</HintPath>
     </Reference>
@@ -157,6 +169,7 @@
     <None Include="app.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

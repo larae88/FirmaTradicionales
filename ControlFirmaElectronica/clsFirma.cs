@@ -8,6 +8,8 @@ using System.Runtime.InteropServices;
 using System.Net;
 using System.Web.Services.Protocols;
 using APISeguriSign;
+using EvoPdf.RtfToPdf;
+using EvoWordToPdf;
 
 namespace ControlFirmaElectronica
 {
@@ -78,7 +80,7 @@ namespace ControlFirmaElectronica
         public static extern int ssign_api_freeMem(ref System.IntPtr thePointer2Free);
 
         #endregion
-
+ 
         public string strDigestion { get; set; }
         public string strFIR { get; set; }
         public string strTSP { get; set; }
@@ -302,6 +304,41 @@ namespace ControlFirmaElectronica
             _ArchivoPDF = Archivo.Replace(".rtf", ".pdf");
             FileStream pdfFile = File.OpenWrite(_ArchivoPDF);
             pdfFile.Write(binaryPDF, 0, binaryPDF.Length);
+            pdfFile.Close();
+        }
+
+        public void ConvertirRTF_PDF_EVO(string Archivo)
+        {
+            WordToPdfConverter wordToPdfConverter = new WordToPdfConverter();
+            wordToPdfConverter.LicenseKey = "AY+cjpuejpibl46ZgJ6OnZ+An5yAl5eXl46e";
+            //Lo Transformamos
+            System.Text.ASCIIEncoding encoding = new System.Text.ASCIIEncoding();
+            byte[] Palabras = FileToByteArray(Archivo);
+           // byte[] fileArray = rtfToPdfConverter.GetPdfBytesFromRtfFile(Archivo);
+            byte[] fileArray = wordToPdfConverter.ConvertWordFile(Archivo);
+          //  byte[] binaryPDF = rtfToPdfConverter(Palabras);
+            _ArchivoPDF = Archivo.Replace(".rtf", ".pdf");
+            FileStream pdfFile = File.OpenWrite(_ArchivoPDF);
+            pdfFile.Write(fileArray, 0, fileArray.Length);
+            pdfFile.Close();     
+      
+        }
+
+        public void ConvertirHTML_RTF_EVO(string Archivo)
+        {
+
+            EvoPdf.PdfConverter HtmlToPdfConverter = new EvoPdf.PdfConverter();
+
+            HtmlToPdfConverter.LicenseKey = "AY+cjpuejpibl46ZgJ6OnZ+An5yAl5eXl46e";
+            byte[] fileArray = HtmlToPdfConverter.GetPdfBytesFromHtmlFile(Archivo);
+
+            //Lo Transformamos
+            System.Text.ASCIIEncoding encoding = new System.Text.ASCIIEncoding();
+            byte[] Palabras = FileToByteArray(Archivo);
+
+            _ArchivoPDF = Archivo.Replace(".html", ".pdf");
+            FileStream pdfFile = File.OpenWrite(_ArchivoPDF);
+            pdfFile.Write(fileArray, 0, fileArray.Length);
             pdfFile.Close();
         }
         

@@ -20,7 +20,7 @@ using System.Security.Cryptography.Pkcs;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using SistemaSC;
-
+using EvoPdf.RtfToPdf;
 
 namespace ControlFirmaElectronica
 {
@@ -405,8 +405,9 @@ namespace ControlFirmaElectronica
             }
             Firma.Firma = Elemento2;
 
-
-            int Resultadofirm = Firma.AutenticarFirma();
+            int Resultadofirm = 0;
+            //se quita por el sha256
+            // Resultadofirm = Firma.AutenticarFirma();
             tiposerver =1;
 
             if (Resultadofirm == 0)
@@ -1459,19 +1460,19 @@ namespace ControlFirmaElectronica
             Firma FirmaMensaje = new Firma();
 
 
-            int respuestaFirm = Firma.AutenticarFirma();
+            //int respuestaFirm = Firma.AutenticarFirma();
 
-            if (respuestaFirm == 0)
-            {
+            //if (respuestaFirm == 0)
+            //{
 
                 //PARA QUE FIRME CON SHA256
                 objSigner.DigestAlgorithm = new Oid(CryptoConfig.MapNameToOID("SHA256"));
                 CargarValoresIP2();
                 Firma.strIP = strServidorIP;
                 Firma.intPuerto = Int32.Parse(strPuertoIP);
-                respuestaFirm = Firma.AutenticarFirma();
+             int  respuestaFirm = Firma.AutenticarFirma();
 
-            }
+           // }
 
             if (respuestaFirm != 0)
             {
@@ -1718,7 +1719,7 @@ namespace ControlFirmaElectronica
                 //Opcion 1 0> Crea y abre el pdf
                 if (_Texto.Length > 0)
                 {
-                    Firma.ConvertirRTF_PDF(strRuta + "\\firmaele\\Texto.rtf");
+                    Firma.ConvertirRTF_PDF_EVO(strRuta + "\\firmaele\\Texto.rtf");
 
                     if (Opcion == 1)
                     {
@@ -1750,7 +1751,7 @@ namespace ControlFirmaElectronica
                 string newPath = System.IO.Path.Combine(activeDir, ExpedienteFirmaele);
 
                 // Create the subfolder
-                System.IO.Directory.CreateDirectory(newPath);
+                 System.IO.Directory.CreateDirectory(newPath);
                 //SE CREA EL HEADER
                 string strfileName = newPath + "\\header";
                 FileStream stream = new FileStream(strfileName + ".htm", FileMode.OpenOrCreate, FileAccess.Write);
@@ -1786,7 +1787,8 @@ namespace ControlFirmaElectronica
 
                 }
 
-                Firma.ConvertirRTF_PDF(strRuta + "\\firmaele\\Texto.rtf");
+               Firma.ConvertirRTF_PDF_EVO(strRuta + "\\firmaele\\Texto.rtf");
+              //  Firma.ConvertirRTF_PDF(strRuta + "\\firmaele\\Texto.rtf");
 
                 //BORRA LAS CARPETAS Y ARCHIVOS CREADOS EN FIRMAELE
                 if (System.IO.File.Exists(strfileNameM + ".htm"))
@@ -1801,8 +1803,6 @@ namespace ControlFirmaElectronica
                     System.IO.Directory.Delete(newPath);
                 }
                 
-
-
                 if (Opcion == 1)
                 {
                     Process pr = new Process();
