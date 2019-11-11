@@ -1967,16 +1967,16 @@ namespace ControlFirmaElectronica
                 strURL = acuses[1].ToString();
                 Resultado = true;
 
-                if (acuses.Count > 2)
-                {
-                    int i = 0;
-                    for (int anexo = 2; anexo < acuses.Count; anexo++)
-                    {
-                        strURLAnexos[i] = acuses[anexo].ToString();
+                //if (acuses.Count > 2)
+                //{
+                //    int i = 0;
+                //    for (int anexo = 2; anexo < acuses.Count; anexo++)
+                //    {
+                //        strURLAnexos[i] = acuses[anexo].ToString();
                           
-                    }
+                //    }
                
-                }
+                //}
             }
             else
             {

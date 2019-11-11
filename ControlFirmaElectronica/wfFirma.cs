@@ -2488,7 +2488,7 @@ namespace ControlFirmaElectronica
      
         private void btn_Resolucion_Click(object sender, EventArgs e)
         {
-
+            string strSQL = "";
             if (_IDNotificacion > 0)
             {
                 if (Acuerdos.ObtenerResolucion(_IDNotificacion) == true)
@@ -2497,6 +2497,8 @@ namespace ControlFirmaElectronica
                     linkBoleta.Links.Add(0, linkBoleta.Text.Length, Acuerdos.strURL);
                     LinkLabelLinkClickedEventArgs x = new LinkLabelLinkClickedEventArgs(linkBoleta.Links[0]);
                     linkBoleta_LinkClicked(null, x);
+                    strSQL = "update resoluciones_rp set resorp_fecha_imp= '" + DateTime.Now.ToString("yyyy/MM/dd") + "' , resorp_hora_imp = '" + DateTime.Now.ToString("HH:mm:ss") + "' ,  resorp_estatus = '2'  where resorp_id_Noti ='" + _IDNotificacion + "'";
+                    Acuerdos.ActualizarImoresionRpp(strSQL);
                 }
                 else
                     MessageBox.Show("Hubo un error al cargar la resolución.", "Mensaje del sistema", MessageBoxButtons.OK, MessageBoxIcon.Warning);

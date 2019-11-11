@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>evortftopdf</name>
+    </assembly>
+    <members>
+        <member name="F:HiQPdfPrv.Pdf.Security.SecurityHandlers.Standard">
+            <summary>
+            The built-in password-based security handler.
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PdfCompressionLevel">
+            <summary>
+            This enumration represents the possible compression levels that can be used in the PDF documents created by the RTF to PDF library
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfCompressionLevel.AboveNormal">
+            <summary>
+            Better compression but takes more time to compress
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfCompressionLevel.BelowNormal">
+            <summary>
+            Something middle between normal and BestSpeed compressions
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfCompressionLevel.Best">
+            <summary>
+            Use the best compression but takes more time to compress
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfCompressionLevel.BestSpeed">
+            <summary>
+            The compression speed is high but the compression percentage is low
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfCompressionLevel.NoCompression">
+            <summary>
+            Does not do any compression
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfCompressionLevel.Normal">
+            <summary>
+            Use normal compression, a balance between compression speed and resulted size
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PdfConverter">
+            <summary>
+            This class offers the necessary API to create a PDF document from
+            a specified RTF string or file
+            </summary>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.#ctor">
+            <summary>
+            Creates a RTF to PDF converter which will autodetect the width and height
+            of the RTF document
+            </summary>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.#ctor(System.Int32)">
+            <summary>
+            Creates a RTF to PDF converter which will autodetect the height
+            of the RTF document.
+            </summary>
+            <param name="pageWidth">The RTF document width</param>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Creates a RTF to PDF converter for a RTF document with the specified width and height
+            </summary>
+            <param name="pageWidth">The RTF document width</param>
+            <param name="pageHeight">The RTF document height</param>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.GetPdfBytesFromRtfString(System.String)">
+            <summary>
+            Gets the PDF document rendered from the specified RTF file to a memory buffer.
+            </summary>
+            <param name="rtfString">The RTF code</param>
+            <returns>An array of bytes containing the binary representation of the generatedPDF document</returns>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.SavePdfFromRtfStringToStream(System.String,System.IO.Stream)">
+            <summary>
+            Saves the rendered PDF document from the specified rtf string to the specified stream.
+            </summary>
+            <param name="rtfString">The RTF code</param>
+            <param name="outPdfStream">The output stream where to save the generated PDF document.</param>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.GetPdfBytesFromRtfFile(System.String)">
+            <summary>
+            Gets the PDF document rendered from the specified RTF file to a memory buffer.
+            </summary>
+            <param name="rtfFilePath">The full path of the RTF file</param>
+            <returns>An array of bytes containing the binary representation of the PDF document</returns>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.SavePdfFromRtfFileToStream(System.String,System.IO.Stream)">
+            <summary>
+            Saves the PDF document rendered from the specified RTF file to the specified stream.
+            </summary>
+            <param name="rtfFilePath">The full path of the RTF file</param>
+            <param name="outPdfStream">The output stream where to save the generated PDF document.</param>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.SavePdfFromRtfStringToFile(System.String,System.String)">
+            <summary>
+            Saves the rendered PDF document from the specified URL into the specified 
+            disk file
+            </summary>
+            <param name="rtfString">The RTF string</param>
+            <param name="outFile">The full path of the file where to save the rendered PDF document</param>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.PdfConverter.SavePdfFromRtfFileToFile(System.String,System.String)">
+            <summary>
+            Saves the rendered PDF document from the specified HTML file into the specified 
+            disk file
+            </summary>
+            <param name="rtfFilePath">The RTF file full path</param>
+            <param name="outFile">The full path of the file where to save the rendered PDF document</param>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.LicenseKey">
+            <summary>
+            Gets or sets the RTF to PDF converter license key
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.PageWidth">
+            <summary>
+            Gets or sets the RTF document width
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.PageHeight">
+            <summary>
+            Gets or sets the RTF document height. If the width was not set aswell, 
+            this property has no effect
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.PdfDocumentOptions">
+            <summary>
+            Gets a reference to an object to control the generated PDF 
+            document options
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.PdfHeaderOptions">
+            <summary>
+            Gets a reference to an object to control the generated PDF 
+            document header options
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.PdfFooterOptions">
+            <summary>
+            Gets a reference to an object to control the generated PDF 
+            document footer options
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.AvoidTextBreak">
+            <summary>
+            When true this property instructs the converter to try to
+            avoid cutting off the text at PDF page boundry
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.RightToLeftEnabled">
+            <summary>
+            This property is obsolete. Setting this property is not necessary anymore when converting pages in 
+            right-to-left languages like Hebrew or Arabic.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.AdjustBorderSize">
+            <summary>
+            A small value to subtract from the width and hight of the colored background to make the thin lines of 1 pixel around this background more visible 
+            when zooming out in the Adobe Reader PDF Viewer. The default value is 0.5 pixels. 
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.AdjustThinLinesWidth">
+            <summary>
+            A small increment value for the 1 pixel thin lines width to make them more visible 
+            when zooming out in the Adobe Reader PDF Viewer. The default value is 0 pixels.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.BkgTransparency">
+            <summary>
+            Modify background transparency. 0 means transparent, 100 means opaque.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.ImgTransparency">
+            <summary>
+            Modify images transparency. 0 means transparent, 100 means opaque.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.AlphaBlendEnabled">
+            <summary>
+            Enables or disables alpha blending for transparent images. Default is true.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.TransparencyEnabled">
+            <summary>
+            Gets or sets a flag indicating if the transparency is enabled in the generated PDF document.
+            Default value is true. This property can be set to false to eliminate the additional flattening time 
+            when the document is sent to the printer from Adobe Reader viewer.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.MaskBltEnabled">
+            <summary>
+            Enables or disables masking for transparent images. Default is true.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.UseCrossRefStreams">
+            <summary>
+            When this property is true, the generated PDF will store the PDF cross-reference table and PDF trailer in compressed cross-reference streams
+            and therefore the generated PDF document will be smaller in size.
+            Set this false for compatibility with third party tools unable to understand the cross-reference streams.
+            The default value is false.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.TruncateOutOfBoundsText">
+            <summary>
+            Internal use only.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.OptimizePdfPageBreaks">
+            <summary>
+            A flag indicating if the converter uses an optimized page breaks algorithm to improve 
+            document scrolling inside a PDF Viewer. The optimized algorithm can introduce a small 
+            additional processing time when the PDF document is generated.
+            The default value is true and the optimized page breaks algorithm is used by default.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfConverter.OptimizeMemoryUsage">
+            <summary>
+            When this property is true the library will try to release the unused memory as soon as possible.
+            The default value is true.
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PdfDocumentOptions">
+            <summary>
+            This class encapsulates the options to control the PDF document
+            redering process. The PDFConverter class define 
+            a reference to an object of this type
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.LeftMargin">
+            <summary>
+            The rendered PDF document left margin
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.RightMargin">
+            <summary>
+            The rendered PDF document right margin
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.TopMargin">
+            <summary>
+            The rendered PDF document top margin
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.BottomMargin">
+            <summary>
+            The rendered PDF document bottom margin
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.PdfCompressionLevel">
+            <summary>
+            This property controls the compression level of the rendered PDF document
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.PdfPageSize">
+            <summary>
+            This property controls the size of the rendered PDF document
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.PdfPageOrientation">
+            <summary>
+            This property controls the page orientation of the rendered PDF document
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.FitWidth">
+            <summary>
+            When this property is true the HTML content will be resized if necessary to fit the available width in PDF page.
+            When false the HTML content will be rendered at the real size. By default this property is true and 
+            the content will be resized if necessary to fit the available width in PDF page
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.FitHeight">
+            <summary>
+            When this property is true the RTF content will be resized if necessary to fit the available height in PDF page.
+            By default this property is false.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.EmbedFonts">
+            <summary>
+            When true this options instructs the converter to embed all the true type fonts into the PDF document. 
+            The default value is false.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.ShowHeader">
+            <summary>
+            This property controls the whether the header appears or not in the rendered PDF document. 
+            The header properties can be further customized by setting the properties of the PDFHeaderOptions 
+            object exposed by the PDFHeaderOptions property of the PDFConverter class.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.ShowFooter">
+            <summary>
+            This property controls the whether the footer appears or not in the rendered PDF document. 
+            The footer properties can be further customized by setting the properties of the PDFFooterOptions 
+            object exposed by the PDFFooterOptions property of the PDFConverter class.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.AppendPDFFile">
+            <summary>
+            The full path of an existing PDF document to be appended to the PDF
+            document resulted after conversion
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.AppendPDFFileArray">
+            <summary>
+            An array of full paths of existing PDF documents to be appended to the PDF
+            document resulted after conversion
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.AppendPDFStream">
+            <summary>
+            The PDF stream to be appended to the PDF
+            document resulted after conversion
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfDocumentOptions.AppendPDFStreamArray">
+            <summary>
+            An array of PDF streams to be appended to the PDF
+            document resulted after conversion
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PdfFooterOptions">
+            <summary>
+            This class encapsulates the options to control the appearance of the 
+            footer in the rendered PDF document. The PDFConverter class contains a 
+            reference to an object of this type. If the ShowFooter property from PDFDocumentOptions 
+            object is false, the footer options have no effect
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfFooterOptions.FooterText">
+            <summary>
+            The text to appear in the rendered PDF document footer
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfFooterOptions.FooterTextColor">
+            <summary>
+            The color of the text displayed in the footer
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfFooterOptions.ShowPageNumber">
+            <summary>
+            When true, the page numbers. The default value is true. 
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfFooterOptions.DrawFooterLine">
+            <summary>
+            When true, a line is displayed above the footer area. The default value is true.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfFooterOptions.PageNumberText">
+            <summary>
+            The text to be displayed before the page number. The default value is 'Page'
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PdfHeaderOptions">
+            <summary>
+            This class encapsulates the options to control the appearance of the 
+            header in the rendered PDF document. The PDFConverter class contains a 
+            reference to an object of this type. If the ShowHeader property of the PDFDocumentOptions 
+            object is false, the header options have no effect
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfHeaderOptions.HeaderText">
+            <summary>
+            The text to appear in the rendered PDF document title. 
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfHeaderOptions.HeaderTextColor">
+            <summary>
+            The color of the text displayed in the header
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfHeaderOptions.HeaderSubtitleText">
+            <summary>
+            A smaller text to appear in the rendered PDF document header under the title.
+            </summary>
+        </member>
+        <member name="P:EvoPdf.RtfToPdf.PdfHeaderOptions.DrawHeaderLine">
+            <summary>
+            When true, a line is displayed under the header area. The default value is true.
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PDFPageOrientation">
+            <summary>
+            PDF page orientation
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PDFPageOrientation.Portrait">
+            <summary>
+            Portrait
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PDFPageOrientation.Landscape">
+            <summary>
+            Landscape
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.PdfPageSize">
+            <summary>
+            The PDF document size
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.Letter">
+            <summary>
+            Letter format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.Note">
+            <summary>
+            Note format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.Legal">
+            <summary>
+            Legal format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A0">
+            <summary>
+            A0 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A1">
+            <summary>
+            A1 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A2">
+            <summary>
+            A2 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A3">
+            <summary>
+            A3 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A4">
+            <summary>
+            A4 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A5">
+            <summary>
+            A5 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A6">
+            <summary>
+            A6 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A7">
+            <summary>
+            A7 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A8">
+            <summary>
+            A8 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A9">
+            <summary>
+            A9 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.A10">
+            <summary>
+            A0 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.B0">
+            <summary>
+            B0 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.B1">
+            <summary>
+            B1 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.B2">
+            <summary>
+            B2 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.B3">
+            <summary>
+            B3 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.B4">
+            <summary>
+            B4 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.B5">
+            <summary>
+            B5 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.ArchE">
+            <summary>
+            ArchE format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.ArchD">
+            <summary>
+            ArchD format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.ArchC">
+            <summary>
+            ArchC format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.ArchB">
+            <summary>
+            ArchB format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.ArchA">
+            <summary>
+            ArchA format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.Flsa">
+            <summary>
+            Flsa format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.HalfLetter">
+            <summary>
+            HalfLetter format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.Letter11x17">
+            <summary>
+            11x17 format
+            </summary>
+        </member>
+        <member name="F:EvoPdf.RtfToPdf.PdfPageSize.Ledger">
+            <summary>
+            Ledger format
+            </summary>
+        </member>
+        <member name="T:EvoPdf.RtfToPdf.RtfConvertException">
+            <summary>
+            The exception thrown by the RTF to PDF Converter library.
+            </summary>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.RtfConvertException.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="message">The exception message</param>
+        </member>
+        <member name="M:EvoPdf.RtfToPdf.RtfConvertException.#ctor(System.String,System.Exception)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="message">The exception message</param>
+            <param name="innerException">The inner exception that triggered this exception</param>
+        </member>
+    </members>
+</doc>

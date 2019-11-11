@@ -143,23 +143,23 @@ namespace ControlFirmaElectronica
                     linkImprimir.Links.Add(0, linkImprimir.Text.Length, Acuerdos.strURL);
                     LinkLabelLinkClickedEventArgs x = new LinkLabelLinkClickedEventArgs(linkImprimir.Links[0]);
                     linkImprimir_LinkClicked(null, x);
-                    strSQL = "update resoluciones_rp set resorp_fecha_imp= '" + DateTime.Now.ToString("yyyy/MM/dd") + "' , resorp_hora = '" + DateTime.Now.ToString("HH:mm:ss") + "' where resorp_id_Noti ='" + valor + "'";
+                    strSQL = "update resoluciones_rp set resorp_fecha_imp= '" + DateTime.Now.ToString("yyyy/MM/dd") + "' , resorp_hora_imp = '" + DateTime.Now.ToString("HH:mm:ss") + "' ,  resorp_estatus = '1'  where resorp_id_Noti ='" + valor + "'";
                     Acuerdos.ActualizarImoresionRpp(strSQL);
                 }
-                if (Acuerdos.strURLAnexos.Count() > 0)
-                {
-                    int y = 0;
-                    for (int anexo = 0; anexo < Acuerdos.strURLAnexos.Count(); anexo++)
-                    {              
-                        linkImprimir.Links.Remove(linkImprimir.Links[0]);
-                        linkImprimir.Links.Add(0, linkImprimir.Text.Length, Acuerdos.strURLAnexos[anexo]);
-                        LinkLabelLinkClickedEventArgs x = new LinkLabelLinkClickedEventArgs(linkImprimir.Links[0]);
-                        linkImprimir_LinkClicked(null, x);
-                    }
-                }
+                //if (Acuerdos.strURLAnexos.Count() > 0)
+                //{
+                //    int y = 0;
+                //    for (int anexo = 0; anexo < Acuerdos.strURLAnexos.Count(); anexo++)
+                //    {              
+                //        linkImprimir.Links.Remove(linkImprimir.Links[0]);
+                //        linkImprimir.Links.Add(0, linkImprimir.Text.Length, Acuerdos.strURLAnexos[anexo]);
+                //        LinkLabelLinkClickedEventArgs x = new LinkLabelLinkClickedEventArgs(linkImprimir.Links[0]);
+                //        linkImprimir_LinkClicked(null, x);
+                //    }
+                //}
             }
 
-            if (MessageBox.Show("Desea volver a Reimprimir" , "Información", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
+            if (MessageBox.Show("Desea volver a Imprimir" , "Información", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
             {
                 btnImprimir_Click(sender, e);
             }

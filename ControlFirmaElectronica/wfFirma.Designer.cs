@@ -817,7 +817,7 @@
             this.panel6.Controls.Add(this.label36);
             this.panel6.Controls.Add(this.pictureBox12);
             this.panel6.Controls.Add(this.pictureBox13);
-            this.panel6.Location = new System.Drawing.Point(28, 47);
+            this.panel6.Location = new System.Drawing.Point(236, 49);
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(535, 192);
             this.panel6.TabIndex = 39;
@@ -1276,7 +1276,6 @@
             // pnlRP
             // 
             this.pnlRP.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pnlRP.Controls.Add(this.panel6);
             this.pnlRP.Controls.Add(this.lbl_buz2);
             this.pnlRP.Controls.Add(this.lbl_noti2);
             this.pnlRP.Controls.Add(this.lbl_expe2);
@@ -2073,6 +2072,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(992, 635);
+            this.Controls.Add(this.panel6);
             this.Controls.Add(this.pnlRP);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel5);
@@ -2091,7 +2091,7 @@
             this.MinimizeBox = false;
             this.Name = "wfFirma";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Notificación Firma Electrónica  v. 11.10.2019";
+            this.Text = "Notificación Firma Electrónica  v. 08.11.2019";
             this.Load += new System.EventHandler(this.wfFirma_Load);
             this.gbFirmas.ResumeLayout(false);
             this.gbNotificaciones.ResumeLayout(false);
