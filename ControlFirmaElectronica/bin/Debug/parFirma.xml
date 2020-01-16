@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<expediente><Opcion>6</Opcion><Centro>142110201</Centro><Ip>10.1.1.28</Ip><Puerto>3307</Puerto>
+<expediente><Opcion>1</Opcion><Centro>202110211</Centro><Ip>10.11.1.28</Ip><Puerto>3306</Puerto>
 <Usuario>secret</Usuario><Nombre>Fausto Lara Castro</Nombre><Nivel>1</Nivel>
 <PartidoJudicial>Guanajuato,Guanajuato</PartidoJudicial><Juzgado>JUZGADO DE PARTIDO PRIMERO CIVIL</Juzgado>
 <Ruta>C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\bin\Debug</Ruta><Uid>sistemas</Uid><Pwd>sistv4c</Pwd></expediente>

@@ -2091,7 +2091,7 @@
             this.MinimizeBox = false;
             this.Name = "wfFirma";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Notificación Firma Electrónica  v. 08.11.2019";
+            this.Text = "Notificación Firma Electrónica  v. 13.01.2020";
             this.Load += new System.EventHandler(this.wfFirma_Load);
             this.gbFirmas.ResumeLayout(false);
             this.gbNotificaciones.ResumeLayout(false);

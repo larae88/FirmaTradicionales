@@ -2818,7 +2818,7 @@ namespace ControlFirmaElectronica
             if (ClaveActos.Length > 0)
             {
                 int i = 0;
-                dgActos.Rows.Add(ClaveActos.Length - 1);
+                dgActos.Rows.Add(ClaveActos.Length);
                 foreach (DataGridViewRow row in dgActos.Rows)
                 {
                     if (i < ClaveActos.Length)
