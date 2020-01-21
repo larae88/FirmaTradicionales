@@ -202,3 +202,14 @@ C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO
 C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.Cache
 C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
 C:\Users\Anonimus\Documents\SISTEMAS PJ\firma Correcta\NUEVAS VERSIONES-TRASLADO\ControlFirmaElectronica-sisconexpe - copia\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csprojAssemblyReference.cache
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.ResolveComReference.cache
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfrAlerta.resources
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\SistemaSC.frmLoading.resources
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.preview.resources
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.Properties.Resources.resources
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirma.resources
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.wfFirmaArchivos.resources
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.csproj.GenerateResource.cache
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.exe
+D:\ReposGIT\FirmaTradicionales\ControlFirmaElectronica\obj\x86\Debug\ControlFirmaElectronica.pdb
