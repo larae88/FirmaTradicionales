@@ -1565,8 +1565,6 @@ namespace ControlFirmaElectronica
                 //Actualizar valida_firma cuando la notificación es correcta
                 if (mi.Notificacion.Identificador > 0)
                 {
-
-
                     strURL = "";
                     strURL = mi.Notificacion.Recibo.URL;
                     bResultado = true;
