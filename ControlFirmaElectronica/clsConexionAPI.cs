@@ -4,17 +4,18 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using ControlFirmaElectronica.NotificacionElectronica;
 
 namespace ControlFirmaElectronica
 {
-    class clsConexionAPI
+    public class clsConexionAPI
     {
         // SE CREA EL CLIENTE HTTP PARA HACER LA PETICIÓN 
-        static HttpClient client = new HttpClient();
+        public HttpClient client = new HttpClient();
 
         // ESTRUCTURA DE LOS METODOS PARA LLAMAR AL API (PUEDEN O NO SER STATICS), SIEMPRE SON ASYNC PARA MANEJAR LAS TAREAS ASYNCRONAS
         // ESPERA UNA TAREA DE UN TIPO DEFINIDO EN LOS < TIPO ESPERADO >
-        static async Task<string[]> GetTransacciones()
+        public async Task<string[]> GetTransacciones()
         {
 
             // OBJETO DE RESPUESTA
@@ -37,18 +38,18 @@ namespace ControlFirmaElectronica
         }
 
         // IGUAL QUE EL ANTERIOR SOLO QUE ESTE METODO ES POST, RECIBE UN OBJETO COMO PARAMETRO
-        static async Task<bool> ArchivoNodoBorrarSet(string product)
+        public async Task<NotificacionElectronicaInformacion> RealizarNotificacion(ReqRealizarNotificacion product)
         {
             // OBJETO DE RESPUESTA
-            bool bandera = false;
+            NotificacionElectronicaInformacion bandera = new NotificacionElectronicaInformacion();
 
             // LLAMADA TIPO POST
 
-            HttpResponseMessage response = await client.PostAsJsonAsync("https://archivoelectronico.poderjudicial-gto.gob.mx/SV_P3/api/Archivo/ArchivoNodoBorrarSet", product);
+            HttpResponseMessage response = await client.PostAsJsonAsync(" https://plataforma.poderjudicial-gto.gob.mx/SV_P3/api/NotificacionElectronica/RealizarNotificacion", product);
 
             if (response.IsSuccessStatusCode)
             {
-                bandera = await response.Content.ReadAsAsync<bool>();
+                bandera = await response.Content.ReadAsAsync<NotificacionElectronicaInformacion>();
             }
             return bandera;
         }
@@ -59,4 +60,12 @@ namespace ControlFirmaElectronica
             string[] product = await GetTransacciones();
         }
     }
+
+    public class ReqRealizarNotificacion
+    { 
+        public long Clave { get; set; } 
+        public long Credencial { get; set; } 
+        public  NotificacionElectronicaUploader Notificacion { get; set; } 
+    }
+
 }
