@@ -21,6 +21,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using SistemaSC;
 using EvoPdf.RtfToPdf;
+using System.Threading.Tasks;
 
 namespace ControlFirmaElectronica
 {
@@ -652,7 +653,7 @@ namespace ControlFirmaElectronica
             Resultado = CConexionMySQL.RegresaTabla(strSQL);
             return Resultado;
         }
-        public bool GenerarEsquemaNotificacion(long IdFirma)
+        public async Task<bool> GenerarEsquemaNotificacion(long IdFirma)
         {
            
             DataSet Resultado = new DataSet("Generales");
@@ -860,8 +861,19 @@ namespace ControlFirmaElectronica
                 veri.ClaveCentro = edo.TicketSesion.Centro.Clave;
                 veri.ClavePlataforma = edo.TicketSesion.Plataforma.ClavePlataforma;
                 veri.TOKEN = edo.SesionInformacion.Token;
-                NotificacionElectronica.NotificacionElectronicaInformacion mi= ne.RealizarNotificacion(veri,neu);
+                //---------------------------------
+                //NotificacionElectronica.NotificacionElectronicaInformacion mi= ne.RealizarNotificacion(veri,neu);
+                //--------------------------------
 
+                clsConexionAPI conexioen = new clsConexionAPI();
+
+                ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
+
+                objetoenvio.Clave = 100000;
+                objetoenvio.Credencial = 1200;
+                objetoenvio.Notificacion = neu;
+
+                                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
 
                 //Actualizar valida_firma cuando la notificación es correcta
                 if (mi.Notificacion.Identificador > 0 )
