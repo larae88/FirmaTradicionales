@@ -3247,10 +3247,10 @@ namespace ControlFirmaElectronica.NotificacionElectronica {
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
     [System.Runtime.Serialization.DataContractAttribute(Name="BaseCatalogos", Namespace="http://schemas.datacontract.org/2004/07/gto.poderjudicial.baseplataforma")]
     [System.SerializableAttribute()]
-    [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TiposDocumentacion))]
-    [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TiposIdentificacion))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TipoTelefonos))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TipoPrivilegios))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TiposDocumentacion))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TiposIdentificacion))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(ControlFirmaElectronica.NotificacionElectronica.TipoPreguntas))]
     public partial class BaseCatalogos : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -3311,20 +3311,6 @@ namespace ControlFirmaElectronica.NotificacionElectronica {
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
-    [System.Runtime.Serialization.DataContractAttribute(Name="TiposDocumentacion", Namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion")]
-    [System.SerializableAttribute()]
-    public partial class TiposDocumentacion : ControlFirmaElectronica.NotificacionElectronica.BaseCatalogos {
-    }
-    
-    [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
-    [System.Runtime.Serialization.DataContractAttribute(Name="TiposIdentificacion", Namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion")]
-    [System.SerializableAttribute()]
-    public partial class TiposIdentificacion : ControlFirmaElectronica.NotificacionElectronica.BaseCatalogos {
-    }
-    
-    [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
     [System.Runtime.Serialization.DataContractAttribute(Name="TipoTelefonos", Namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/hidra")]
     [System.SerializableAttribute()]
     public partial class TipoTelefonos : ControlFirmaElectronica.NotificacionElectronica.BaseCatalogos {
@@ -3351,6 +3337,20 @@ namespace ControlFirmaElectronica.NotificacionElectronica {
                 }
             }
         }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="TiposDocumentacion", Namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion")]
+    [System.SerializableAttribute()]
+    public partial class TiposDocumentacion : ControlFirmaElectronica.NotificacionElectronica.BaseCatalogos {
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="TiposIdentificacion", Namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion")]
+    [System.SerializableAttribute()]
+    public partial class TiposIdentificacion : ControlFirmaElectronica.NotificacionElectronica.BaseCatalogos {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]

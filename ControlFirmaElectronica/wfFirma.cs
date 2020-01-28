@@ -1440,7 +1440,7 @@ namespace ControlFirmaElectronica
         }
 
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private async void button1_Click_1(object sender, EventArgs e)
         {
             string accesofirma;
             accesofirma = ObtenerHuella();
@@ -1501,7 +1501,7 @@ namespace ControlFirmaElectronica
                                 //}
                                 Acuerdos.listaadj = lstadjuntar;
                                 Acuerdos.corrertras = chkTraslado;
-                                if (Acuerdos.GenerarEsquemaNotificacion(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString())) == true)
+                                if (await Acuerdos.GenerarEsquemaNotificacion(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString())) == true)
                                 {
                                     //Actualizar las notificaciones que falta por enviar
                                     dgAcuerdos.DataSource = Acuerdos.ObtenerAcuerdosANotificar();
@@ -1621,7 +1621,7 @@ namespace ControlFirmaElectronica
 
         }
 
-        private void pictureBox5_Click(object sender, EventArgs e)
+        private async void pictureBox5_Click(object sender, EventArgs e)
         {
             string accesofirma;
             accesofirma = ObtenerHuella();
@@ -1677,7 +1677,8 @@ namespace ControlFirmaElectronica
                                 Cursor.Current = Cursors.WaitCursor;
                                 Acuerdos.listaadj = lstadjuntar;
                                 Acuerdos.corrertras = chkTraslado;
-                                if (Acuerdos.GenerarEsquemaNotificacion(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString())) == true)
+
+                                if (await Acuerdos.GenerarEsquemaNotificacion(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString())) == true)
                                 {
                                     //Actualizar las notificaciones que falta por enviar
                                     dgAcuerdos.DataSource = Acuerdos.ObtenerAcuerdosANotificar();
@@ -1720,7 +1721,7 @@ namespace ControlFirmaElectronica
             }
         }
 
-        private void pictureBox6_Click(object sender, EventArgs e)
+        private async void pictureBox6_Click(object sender, EventArgs e)
         {
             // string accesofirma;
 
@@ -1784,7 +1785,7 @@ namespace ControlFirmaElectronica
                                     Acuerdos.listaadj = lstadjuntar;
                                     Acuerdos.corrertras = chkTraslado;
                                     func.StartProgress(this);
-                                    if (Acuerdos.GenerarEsquemaNotificacion3(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
+                                    if (await Acuerdos.GenerarEsquemaNotificacion3(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
                                     {
                                         //clsAcuerdos mic = new clsAcuerdos();
                                         //mic.enviartraslado(this);
@@ -1851,7 +1852,7 @@ namespace ControlFirmaElectronica
             lblcantidad.Text = conteo.ToString();
         }
 
-        private void pictureBox5_Click_1(object sender, EventArgs e)
+        private async void pictureBox5_Click_1(object sender, EventArgs e)
         {
             string accesofirma;
 
@@ -1924,7 +1925,7 @@ namespace ControlFirmaElectronica
 
                                         Acuerdos.listaadj = lstadjuntar;
                                         Acuerdos.corrertras = chkTraslado;
-                                        if (Acuerdos.GenerarEsquemaNotificacion(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString())) == true)
+                                        if (await Acuerdos.GenerarEsquemaNotificacion(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString())) == true)
                                         {
 
                                             //Actualizar las notificaciones que falta por enviar
@@ -2281,7 +2282,7 @@ namespace ControlFirmaElectronica
             }
         }
 
-        private void picEnviar_Click(object sender, EventArgs e)
+        private async void picEnviar_Click(object sender, EventArgs e)
         {
 
 
@@ -2330,7 +2331,7 @@ namespace ControlFirmaElectronica
                                 if (Acuerdos.AbrirTextoResolutivo(0) == true)
                                 {
                                     func.StartProgress(this);
-                                    if (Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
+                                    if (await Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
                                     {
                                         Cursor.Current = Cursors.WaitCursor;
                                         //Actualizar las notificaciones que falta por enviar
@@ -2548,7 +2549,7 @@ namespace ControlFirmaElectronica
 
         }
 
-        private void pcEnviar_Click(object sender, EventArgs e)
+        private async  void pcEnviar_Click(object sender, EventArgs e)
         {
 
             int SelActos = 0;
@@ -2689,7 +2690,7 @@ namespace ControlFirmaElectronica
                                     func.StartProgress(this);
                                     Acuerdos.listaadj = lstTrasladoRp;
                                     Acuerdos.corrertras = chkTraslado;
-                                    if (Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
+                                    if (await Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
                                     {
 
                                         Cursor.Current = Cursors.WaitCursor;

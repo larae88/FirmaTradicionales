@@ -223,3 +223,7 @@ C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\evort
 C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\evointernal.dat
 C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\evowordtopdf.dll
 C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\evowordtopdf.xml
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\Newtonsoft.Json.dll
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\System.Net.Http.Formatting.dll
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\Newtonsoft.Json.xml
+C:\Versionador Kraken\FirmaTradicionales\ControlFirmaElectronica\bin\Debug\System.Net.Http.Formatting.xml

@@ -18,20 +18,20 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="NotificacionElectronica.xsd" MetadataType="Schema" ID="4a8399ba-6a7b-411c-84bc-849f03ae9e8e" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd1" />
-    <MetadataFile FileName="NotificacionElectronica1.xsd" MetadataType="Schema" ID="24555455-459f-4eaa-8ea2-be05de5e56b7" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd0" />
-    <MetadataFile FileName="NotificacionElectronica2.xsd" MetadataType="Schema" ID="e9a9c91f-79b7-4a84-bd19-f78be9911502" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd6" />
-    <MetadataFile FileName="NotificacionElectronica.wsdl" MetadataType="Wsdl" ID="1823a1cc-dd8d-4bba-b4ea-88e49174d1b5" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?wsdl=wsdl0" />
-    <MetadataFile FileName="NotificacionElectronica.disco" MetadataType="Disco" ID="cd43a580-f549-4ff9-9765-02b943c8b62d" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?disco" />
-    <MetadataFile FileName="NotificacionElectronica3.xsd" MetadataType="Schema" ID="0b3abc27-323f-4d84-b506-ecd49dd8e6a1" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd7" />
-    <MetadataFile FileName="NotificacionElectronica4.xsd" MetadataType="Schema" ID="4a82f884-d73a-449c-a6e6-f77a44d064c2" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd5" />
-    <MetadataFile FileName="NotificacionElectronica5.xsd" MetadataType="Schema" ID="0a38a52d-d6d2-455f-a92c-60990e88adb5" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd4" />
-    <MetadataFile FileName="ImplementacionNotificacionElectronica.wsdl" MetadataType="Wsdl" ID="aba695a7-0b94-4be5-b71d-1516879b18d3" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?wsdl" />
-    <MetadataFile FileName="NotificacionElectronica6.xsd" MetadataType="Schema" ID="09feeb4d-00a3-4a0c-ae7a-1123126eccac" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd3" />
-    <MetadataFile FileName="NotificacionElectronica7.xsd" MetadataType="Schema" ID="2f5c4646-eda4-4c81-80ff-20307f235d72" SourceId="1" SourceUrl="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd2" />
+    <MetadataFile FileName="NotificacionElectronica8.xsd" MetadataType="Schema" ID="a1df2ae8-12ae-4650-86ea-a43cf0f035f4" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd0" />
+    <MetadataFile FileName="NotificacionElectronica81.xsd" MetadataType="Schema" ID="af13220d-ebd9-49e0-a1f8-13d5d5450e70" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd6" />
+    <MetadataFile FileName="NotificacionElectronica82.xsd" MetadataType="Schema" ID="db32f4ff-d7d7-449e-99aa-bbc1959d13fa" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd2" />
+    <MetadataFile FileName="NotificacionElectronica83.xsd" MetadataType="Schema" ID="bb1ce879-6f68-4368-b4ac-34d2f00a887f" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd5" />
+    <MetadataFile FileName="ImplementacionNotificacionElectronica1.wsdl" MetadataType="Wsdl" ID="5e5bb5c5-999f-4955-a4dd-444d5026227d" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?wsdl" />
+    <MetadataFile FileName="NotificacionElectronica84.xsd" MetadataType="Schema" ID="9cd92e6d-4d46-43aa-a4b2-d1889560787d" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd1" />
+    <MetadataFile FileName="NotificacionElectronica85.xsd" MetadataType="Schema" ID="15940fca-a7b9-4b31-bd67-d54f8b37029c" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd7" />
+    <MetadataFile FileName="NotificacionElectronica86.xsd" MetadataType="Schema" ID="30ab9c1b-fe03-474b-964b-7d6e7a6bbfd1" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd3" />
+    <MetadataFile FileName="NotificacionElectronica1.wsdl" MetadataType="Wsdl" ID="cef584f1-9b5b-4152-b1f9-fe1908416120" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="NotificacionElectronica1.disco" MetadataType="Disco" ID="f072e31e-9975-4602-9828-e545147c87c3" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?disco" />
+    <MetadataFile FileName="NotificacionElectronica87.xsd" MetadataType="Schema" ID="2cfffa04-af06-4d91-8d97-7c49ea8762a8" SourceId="1" SourceUrl="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?xsd=xsd4" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

@@ -4,11 +4,30 @@
     <wsp:ExactlyOne>
       <wsp:All>
         <gzip:GZipEncoding xmlns:gzip="http://schemas.microsoft.com/ws/06/2004/mspolicy/netgzip1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <sp:HttpsToken RequireClientCertificate="false" />
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
         <wsaw:UsingAddressing />
       </wsp:All>
     </wsp:ExactlyOne>
   </wsp:Policy>
-  <wsdl:import namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion/" location="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc?wsdl=wsdl0" />
+  <wsdl:import namespace="http://gto.poderjudicial-gto.gob.mx/plataformaelectronica/notificacion/" location="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc?wsdl=wsdl0" />
   <wsdl:types />
   <wsdl:binding name="CustomBinding_ContratoNotifiacionElectronica" type="i0:ContratoNotifiacionElectronica">
     <wsp:PolicyReference URI="#CustomBinding_ContratoNotifiacionElectronica_policy" />
@@ -187,9 +206,9 @@
   </wsdl:binding>
   <wsdl:service name="ImplementacionNotificacionElectronica">
     <wsdl:port name="CustomBinding_ContratoNotifiacionElectronica" binding="tns:CustomBinding_ContratoNotifiacionElectronica">
-      <soap12:address location="http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc" />
+      <soap12:address location="https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc" />
       <wsa10:EndpointReference>
-        <wsa10:Address>http://10.1.23.17:88/ServicioNotificacionElectronica/NotificacionElectronica.svc</wsa10:Address>
+        <wsa10:Address>https://plataforma.poderjudicial-gto.gob.mx/ServicioNotificacionElectronica/NotificacionElectronica.svc</wsa10:Address>
       </wsa10:EndpointReference>
     </wsdl:port>
   </wsdl:service>

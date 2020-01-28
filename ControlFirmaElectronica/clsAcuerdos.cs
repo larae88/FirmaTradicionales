@@ -865,15 +865,18 @@ namespace ControlFirmaElectronica
                 //NotificacionElectronica.NotificacionElectronicaInformacion mi= ne.RealizarNotificacion(veri,neu);
                 //--------------------------------
 
+               // NotificacionElectronica.Hidra.VerificacionAcceso veri = hidra.VerificarSesion(Verificador);
+
+               
                 clsConexionAPI conexioen = new clsConexionAPI();
 
                 ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
 
-                objetoenvio.Clave = 100000;
-                objetoenvio.Credencial = 1200;
+                objetoenvio.Clave = long.Parse(veri.ClaveCentro);
+                objetoenvio.Credencial = 1;
                 objetoenvio.Notificacion = neu;
 
-                                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
+                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
 
                 //Actualizar valida_firma cuando la notificación es correcta
                 if (mi.Notificacion.Identificador > 0 )
@@ -922,7 +925,7 @@ namespace ControlFirmaElectronica
             return bResultado;
         }
 
-        public bool GenerarEsquemaNotificacion2(long IdFirma, X509Certificate2 cert)
+        public async Task<bool> GenerarEsquemaNotificacion2(long IdFirma, X509Certificate2 cert)
         {
 
             DataSet Resultado = new DataSet("Generales");
@@ -1231,7 +1234,19 @@ namespace ControlFirmaElectronica
                 veri.ClaveCentro = edo.TicketSesion.Centro.Clave;
                 veri.ClavePlataforma = edo.TicketSesion.Plataforma.ClavePlataforma;
                 veri.TOKEN = edo.SesionInformacion.Token;
-                NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
+
+                clsConexionAPI conexioen = new clsConexionAPI();
+
+                ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
+
+                objetoenvio.Clave = long.Parse(veri.ClaveCentro);
+                objetoenvio.Credencial = 1;
+                objetoenvio.Notificacion = neu;
+
+                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
+
+
+             //   NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
 
 
                 //Actualizar valida_firma cuando la notificación es correcta
@@ -1295,7 +1310,6 @@ namespace ControlFirmaElectronica
                                 CConexionMySQL.EjecutaComando(strSQL);
                             }
                         }
-
                 }
                 else
                     bResultado = false;
@@ -1303,7 +1317,7 @@ namespace ControlFirmaElectronica
             return bResultado;
         }
 
-        public bool GenerarEsquemaNotificacion3(long IdFirma, X509Certificate2 cert)
+        public async Task<bool> GenerarEsquemaNotificacion3(long IdFirma, X509Certificate2 cert)
         {
 
             DataSet Resultado = new DataSet("Generales");
@@ -1571,8 +1585,16 @@ namespace ControlFirmaElectronica
                 veri.ClaveCentro = edo.TicketSesion.Centro.Clave;
                 veri.ClavePlataforma = edo.TicketSesion.Plataforma.ClavePlataforma;
                 veri.TOKEN = edo.SesionInformacion.Token;
-                NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
+             //   NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
+                clsConexionAPI conexioen = new clsConexionAPI();
 
+                ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
+
+                objetoenvio.Clave = long.Parse(veri.ClaveCentro);
+                objetoenvio.Credencial = 1;
+                objetoenvio.Notificacion = neu;
+
+                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
 
                 //Actualizar valida_firma cuando la notificación es correcta
                 if (mi.Notificacion.Identificador > 0)
