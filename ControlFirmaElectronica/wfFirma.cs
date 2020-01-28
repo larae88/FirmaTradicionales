@@ -1797,6 +1797,8 @@ namespace ControlFirmaElectronica
                                         linkUrl.Links.Remove(linkUrl.Links[0]);
                                         linkUrl.Links.Add(0, linkUrl.Text.Length, Acuerdos.strURL);
                                         linkUrl.Enabled = true;
+                                        LinkLabelLinkClickedEventArgs x = new LinkLabelLinkClickedEventArgs(linkUrl.Links[0]);
+                                        linkUrl_LinkClicked(null, x);
                                         lstadjuntar.Items.Clear();
                                         panel4.Visible = false;
                                         chkb_correr.Checked = false;

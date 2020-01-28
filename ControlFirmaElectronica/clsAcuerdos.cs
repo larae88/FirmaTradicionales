@@ -865,18 +865,22 @@ namespace ControlFirmaElectronica
                 //NotificacionElectronica.NotificacionElectronicaInformacion mi= ne.RealizarNotificacion(veri,neu);
                 //--------------------------------
 
-               // NotificacionElectronica.Hidra.VerificacionAcceso veri = hidra.VerificarSesion(Verificador);
+                // NotificacionElectronica.Hidra.VerificacionAcceso veri = hidra.VerificarSesion(Verificador);
 
-               
                 clsConexionAPI conexioen = new clsConexionAPI();
-
+                UsuarioExMin auth = new UsuarioExMin()
+                {
+                    Usuario = "GEMAFV85",
+                    Password = Md5Hash("123")
+                };
+                auth = await conexioen.Autenticar(auth);
                 ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
 
                 objetoenvio.Clave = long.Parse(veri.ClaveCentro);
                 objetoenvio.Credencial = 1;
                 objetoenvio.Notificacion = neu;
 
-                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
+                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio, auth.Token);
 
                 //Actualizar valida_firma cuando la notificación es correcta
                 if (mi.Notificacion.Identificador > 0 )
@@ -1236,17 +1240,22 @@ namespace ControlFirmaElectronica
                 veri.TOKEN = edo.SesionInformacion.Token;
 
                 clsConexionAPI conexioen = new clsConexionAPI();
-
+                UsuarioExMin auth = new UsuarioExMin()
+                {
+                    Usuario = "GEMAFV85",
+                    Password = Md5Hash("123")
+                };
+                auth = await conexioen.Autenticar(auth);
                 ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
 
                 objetoenvio.Clave = long.Parse(veri.ClaveCentro);
                 objetoenvio.Credencial = 1;
                 objetoenvio.Notificacion = neu;
 
-                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
+                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio, auth.Token);
 
 
-             //   NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
+                //   NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
 
 
                 //Actualizar valida_firma cuando la notificación es correcta
@@ -1587,14 +1596,18 @@ namespace ControlFirmaElectronica
                 veri.TOKEN = edo.SesionInformacion.Token;
              //   NotificacionElectronica.NotificacionElectronicaInformacion mi = ne.RealizarNotificacion(veri, neu);
                 clsConexionAPI conexioen = new clsConexionAPI();
-
+                UsuarioExMin auth = new UsuarioExMin() {
+                    Usuario = "GEMAFV85",
+                    Password = Md5Hash("123")
+                };
+                auth = await conexioen.Autenticar(auth);
                 ReqRealizarNotificacion objetoenvio = new ReqRealizarNotificacion();
 
                 objetoenvio.Clave = long.Parse(veri.ClaveCentro);
                 objetoenvio.Credencial = 1;
                 objetoenvio.Notificacion = neu;
 
-                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio);
+                NotificacionElectronicaInformacion mi = await conexioen.RealizarNotificacion(objetoenvio, auth.Token);
 
                 //Actualizar valida_firma cuando la notificación es correcta
                 if (mi.Notificacion.Identificador > 0)
