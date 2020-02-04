@@ -202,6 +202,24 @@ namespace ControlFirmaElectronica
             // la regresamos
             return sBuilder.ToString();
         }
+       
+        public string DesencryptMd5Hash(string input)
+        {
+            string Desencriptado;
+            byte[] data = Convert.FromBase64String(input); // decrypt the incrypted text
+            using (MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider())
+            {
+                byte[] keys = md5.ComputeHash(UTF8Encoding.UTF8.GetBytes(input));
+                using (TripleDESCryptoServiceProvider tripDes = new TripleDESCryptoServiceProvider() { Key = keys, Mode = CipherMode.ECB, Padding = PaddingMode.PKCS7 })
+                {
+                    ICryptoTransform transform = tripDes.CreateDecryptor();
+                    byte[] results = transform.TransformFinalBlock(data, 0, data.Length);
+                    Desencriptado = UTF8Encoding.UTF8.GetString(results);
+                }
+            }
+            return Desencriptado;
+        }
+        
         private void CargarValores()
         {
             DataSet xmlParamentros = new DataSet();
@@ -448,10 +466,7 @@ namespace ControlFirmaElectronica
 
         //Método para firmar un archivo
         public void RealizarFirma(string _RutaArchivo)
-        {        
-
-         
-
+        {       
             Firma.Firma = FirmaSeleccionada;
             //Firma.strIP = "10.11.1.20";   //"10.1.1.74";
             //Firma.strIP = "189.254.239.135";
@@ -662,6 +677,7 @@ namespace ControlFirmaElectronica
             CargarValoresIP();
             Firma.strIP = strServidorIP;
             Firma.intPuerto = Int32.Parse(strPuertoIP);
+
             
             //Buscar las firmas
             strSQL = "call proc_ObtenerFirmasNotificar(" + IdFirma + ");";
@@ -929,7 +945,7 @@ namespace ControlFirmaElectronica
             return bResultado;
         }
 
-        public async Task<bool> GenerarEsquemaNotificacion2(long IdFirma, X509Certificate2 cert)
+        public async Task<bool> GenerarEsquemaNotificacion2(long IdFirma, X509Certificate2 cert, string RutaCert, string Pass)
         {
 
             DataSet Resultado = new DataSet("Generales");
@@ -940,6 +956,7 @@ namespace ControlFirmaElectronica
             myListObj Elemento2 = new myListObj();
             CmsSigner objSigner = new CmsSigner(cert);
 
+            GenerarTemporal(RutaCert, Pass);
             CargarValoresIP();
             Firma.strIP = strServidorIP;
             Firma.intPuerto = Int32.Parse(strPuertoIP);
@@ -1326,7 +1343,7 @@ namespace ControlFirmaElectronica
             return bResultado;
         }
 
-        public async Task<bool> GenerarEsquemaNotificacion3(long IdFirma, X509Certificate2 cert)
+        public async Task<bool> GenerarEsquemaNotificacion3(long IdFirma, X509Certificate2 cert, string RutaCert, string Pass)
         {
 
             DataSet Resultado = new DataSet("Generales");
@@ -1340,7 +1357,7 @@ namespace ControlFirmaElectronica
             CargarValoresIP();
             Firma.strIP = strServidorIP;
             Firma.intPuerto = Int32.Parse(strPuertoIP);
-
+            GenerarTemporal(RutaCert, Pass);
             //Buscar las firmas
             strSQL = "call proc_ObtenerFirmasNotificar(" + IdFirma + ");";
             DataTable DTFirmas = CConexionMySQL.RegresaTabla(strSQL);
@@ -1633,6 +1650,23 @@ namespace ControlFirmaElectronica
             }
             return bResultado;
         }
+       
+        public void  GenerarTemporal(string cert, string pass)
+        {
+            string path = Application.StartupPath + "\\CertiPass.txt";
+            if (!File.Exists(path))
+            {
+                File.Create(path).Dispose();
+                using (TextWriter tw = new StreamWriter(path))
+                {
+                    tw.WriteLine(Md5Hash(cert));
+                    tw.WriteLine(Md5Hash(pass));
+                    tw.Close();
+                }
+
+            } 
+        }
+        
         public bool EnviarRev()
         {
             bool Resultado = true;

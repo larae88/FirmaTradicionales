@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(wfFirma));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.gbFirmas = new System.Windows.Forms.GroupBox();
             this.cbFirmasDisponibles = new System.Windows.Forms.ComboBox();
             this.gbNotificaciones = new System.Windows.Forms.GroupBox();
@@ -414,8 +414,8 @@
             this.dgAcuerdos.MultiSelect = false;
             this.dgAcuerdos.Name = "dgAcuerdos";
             this.dgAcuerdos.ReadOnly = true;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Verdana", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dgAcuerdos.RowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Verdana", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgAcuerdos.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.dgAcuerdos.Size = new System.Drawing.Size(528, 569);
             this.dgAcuerdos.TabIndex = 31;
             this.dgAcuerdos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgAcuerdos_CellContentClick);
@@ -819,7 +819,7 @@
             this.panel6.Controls.Add(this.pictureBox13);
             this.panel6.Location = new System.Drawing.Point(236, 49);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(535, 192);
+            this.panel6.Size = new System.Drawing.Size(535, 195);
             this.panel6.TabIndex = 39;
             this.panel6.Visible = false;
             this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint_2);
@@ -1524,8 +1524,8 @@
             this.dgActos.Location = new System.Drawing.Point(127, 217);
             this.dgActos.Name = "dgActos";
             this.dgActos.ReadOnly = true;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Verdana", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dgActos.RowsDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Verdana", 6.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgActos.RowsDefaultCellStyle = dataGridViewCellStyle6;
             this.dgActos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.CellSelect;
             this.dgActos.Size = new System.Drawing.Size(344, 128);
             this.dgActos.TabIndex = 57;

@@ -157,6 +157,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmLoading.resx">
       <DependentUpon>frmLoading.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="preview.resx">
       <DependentUpon>preview.cs</DependentUpon>

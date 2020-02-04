@@ -47,6 +47,7 @@ namespace ControlFirmaElectronica
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
         clsAcuerdos func = new clsAcuerdos();
+        string path = Application.StartupPath + "\\CertiPass.txt";
 
         public wfFirma()
         {
@@ -62,8 +63,12 @@ namespace ControlFirmaElectronica
                     ";Uid=" + Acuerdos.strUid + ";Pwd=" + Acuerdos.strPwd + ";Connection Timeout=6000;port=" + Acuerdos.strPuerto + ";";
                 
                 dgAcuerdos.DataSource = Acuerdos.ObtenerAcuerdosANotificar();
+
+                if (File.Exists(path))
+                {
+                    System.IO.File.Delete(path);
                 
-               
+                }
                 //Datos que no se muestran al usuario
                 if (Acuerdos.intOpcion == 1)
                 {
@@ -289,6 +294,9 @@ namespace ControlFirmaElectronica
         private void wfFirma_Load(object sender, EventArgs e)
         {
             //timer1.Enabled = true;
+
+           
+           
         }
 
         //Método para mandar llamar a firmar y autenticar
@@ -460,6 +468,7 @@ namespace ControlFirmaElectronica
 
         private void btnNotificar_Click(object sender, EventArgs e)
         {
+
             if (dgAcuerdos.SelectedRows.Count > 0)
             {
                 if (Acuerdos.intOpcion == 1)
@@ -522,6 +531,35 @@ namespace ControlFirmaElectronica
                         lbl_expe2.Text = Acuerdos.strNumeroExpe;
 
                         pnlRP.Visible = true;
+
+                        //para leeer el password y contraseña
+                       
+
+                        int counter = 0;
+                        string line;
+
+                        // Read the file and display it line by line.  
+                        string Cadena;
+                        Cadena = Application.StartupPath + "\\CertiPass.txt";
+                        if (File.Exists(Cadena))
+                        {
+                            System.IO.StreamReader file = new System.IO.StreamReader(Cadena);
+                            while ((line = file.ReadLine()) != null)
+                            {
+                                clsAcuerdos on = new clsAcuerdos();
+                                line = on.DesencryptMd5Hash(line);
+
+                                if (counter == 0)
+                                {
+                                    txtCer.Text = line;
+                                }
+                                else
+                                {
+                                    txtPassCer.Text = line;
+                                }
+                                counter++;
+                            }
+                        }
 
                     }
                     else if (Acuerdos.strtipoPers == "21")
@@ -1785,7 +1823,7 @@ namespace ControlFirmaElectronica
                                     Acuerdos.listaadj = lstadjuntar;
                                     Acuerdos.corrertras = chkTraslado;
                                     func.StartProgress(this);
-                                    if (await Acuerdos.GenerarEsquemaNotificacion3(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
+                                    if (await Acuerdos.GenerarEsquemaNotificacion3(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2, txtCerti.Text, txtpsw.Text) == true)
                                     {
                                         //clsAcuerdos mic = new clsAcuerdos();
                                         //mic.enviartraslado(this);
@@ -2333,7 +2371,7 @@ namespace ControlFirmaElectronica
                                 if (Acuerdos.AbrirTextoResolutivo(0) == true)
                                 {
                                     func.StartProgress(this);
-                                    if (await Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
+                                    if (await Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2, txtcertificado.Text, txtcontraseña.Text) == true)
                                     {
                                         Cursor.Current = Cursors.WaitCursor;
                                         //Actualizar las notificaciones que falta por enviar
@@ -2692,7 +2730,7 @@ namespace ControlFirmaElectronica
                                     func.StartProgress(this);
                                     Acuerdos.listaadj = lstTrasladoRp;
                                     Acuerdos.corrertras = chkTraslado;
-                                    if (await Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2) == true)
+                                    if (await Acuerdos.GenerarEsquemaNotificacion2(long.Parse(dgAcuerdos.SelectedRows[0].Cells[0].Value.ToString()), cert2, txtCer.Text, txtPassCer.Text) == true)
                                     {
 
                                         Cursor.Current = Cursors.WaitCursor;
